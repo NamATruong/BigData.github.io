@@ -14,19 +14,26 @@
         .file-list {
             list-style: none;
             padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
         }
         .file-list li {
             padding: 10px;
-            margin: 5px 0;
             background-color: #f5f5f5;
             border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+        .file-list li:hover {
+            background-color: #e0e0e0;
         }
         .file-list a {
             text-decoration: none;
             color: #2c3e50;
-        }
-        .file-list a:hover {
-            color: #3498db;
+            display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .back-link {
             display: inline-block;
@@ -34,22 +41,34 @@
             color: #666;
             text-decoration: none;
         }
-        .back-link:hover {
-            color: #333;
-        }
         .directory-info {
             margin: 20px 0;
             padding: 15px;
             background-color: #e1f5fe;
             border-radius: 4px;
         }
-        .empty-message {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-            background-color: #f8f9fa;
+        .search-box {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
             border-radius: 4px;
+            font-size: 16px;
+        }
+        .controls {
             margin: 20px 0;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .sort-select {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+        #fileCount {
+            margin-left: auto;
+            color: #666;
         }
     </style>
 </head>
@@ -59,12 +78,78 @@
     
     <div class="directory-info">
         <p>This directory contains raw HTML data scraped from Transfermarkt.com</p>
-        <p>Please upload your scraped HTML files to this directory.</p>
     </div>
 
-    <div class="empty-message">
-        <h3>No HTML files found</h3>
-        <p>Add your scraped Transfermarkt HTML files to this directory and they will be listed here.</p>
+    <div class="controls">
+        <input type="text" class="search-box" placeholder="Search files..." id="searchInput">
+        <select class="sort-select" id="sortSelect">
+            <option value="name-asc">Name (A-Z)</option>
+            <option value="name-desc">Name (Z-A)</option>
+            <option value="number">Number (Ascending)</option>
+            <option value="number-desc">Number (Descending)</option>
+        </select>
+        <span id="fileCount"></span>
     </div>
+
+    <ul class="file-list" id="fileList">
+    </ul>
+
+    <script>
+        function getNumberFromFilename(filename) {
+            const match = filename.match(/(\d+)/);
+            return match ? parseInt(match[0]) : 0;
+        }
+
+        function sortFiles(files, sortType) {
+            return files.sort((a, b) => {
+                switch(sortType) {
+                    case 'name-asc':
+                        return a.localeCompare(b);
+                    case 'name-desc':
+                        return b.localeCompare(a);
+                    case 'number':
+                        return getNumberFromFilename(a) - getNumberFromFilename(b);
+                    case 'number-desc':
+                        return getNumberFromFilename(b) - getNumberFromFilename(a);
+                    default:
+                        return 0;
+                }
+            });
+        }
+
+        function displayFiles(files) {
+            const fileList = document.getElementById('fileList');
+            fileList.innerHTML = '';
+            
+            files.forEach(file => {
+                if (file.endsWith('.html') && file !== 'index.html') {
+                    const li = document.createElement('li');
+                    const a = document.createElement('a');
+                    a.href = file;
+                    a.textContent = file;
+                    li.appendChild(a);
+                    fileList.appendChild(li);
+                }
+            });
+
+            document.getElementById('fileCount').textContent = 
+                `${files.length} files`;
+        }
+
+        let files = Array.from({length: 40}, (_, i) => `page_${i + 1}.html`);
+        displayFiles(sortFiles(files, 'number'));
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredFiles = files.filter(file => 
+                file.toLowerCase().includes(searchTerm)
+            );
+            displayFiles(sortFiles(filteredFiles, document.getElementById('sortSelect').value));
+        });
+
+        document.getElementById('sortSelect').addEventListener('change', (e) => {
+            displayFiles(sortFiles(files, e.target.value));
+        });
+    </script>
 </body>
 </html>
