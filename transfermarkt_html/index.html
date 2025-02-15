@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Data Files</title>
+    <title>HTML Data Files - Transfermarkt</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,13 +37,34 @@
         .back-link:hover {
             color: #333;
         }
+        .directory-info {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #e1f5fe;
+            border-radius: 4px;
+        }
+        .empty-message {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
     <a href="../" class="back-link">← Back to main page</a>
-    <h1>HTML Data Files</h1>
-    <ul class="file-list">
-        <!-- Files will be listed here -->
-    </ul>
+    <h1>HTML Data Files - Transfermarkt</h1>
+    
+    <div class="directory-info">
+        <p>This directory contains raw HTML data scraped from Transfermarkt.com</p>
+        <p>Please upload your scraped HTML files to this directory.</p>
+    </div>
+
+    <div class="empty-message">
+        <h3>No HTML files found</h3>
+        <p>Add your scraped Transfermarkt HTML files to this directory and they will be listed here.</p>
+    </div>
 </body>
 </html>
