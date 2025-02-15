@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 1: Information Extraction Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .section {
+            margin: 30px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        .file-link {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f7f9fc;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #3498db;
+        }
+        .file-link:hover {
+            background-color: #edf2f7;
+        }
+    </style>
+</head>
+<body>
+    <h1>Project 1: Information Extraction Data</h1>
+    
+    <div class="section">
+        <h2>Data Sources</h2>
+        <p>This project extracts soccer player data from two popular sports statistics websites:</p>
+        <ul>
+            <li>Transfermarkt - Market values and player statistics</li>
+            <li>FBref - Comprehensive player statistics from top 5 European leagues</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>HTML Data</h2>
+        <p>Raw HTML data collected from each website:</p>
+        <a href="./transfermarkt_html/" class="file-link">Transfermarkt HTML Data Directory</a>
+        <a href="./fbref_html/" class="file-link">FBref HTML Data Directory</a>
+    </div>
+
+    <div class="section">
+        <h2>Extracted Tables</h2>
+        <p>Processed data in CSV format:</p>
+        <a href="./tableA.csv" class="file-link">Table A - Transfermarkt Data (CSV)</a>
+        <a href="./tableB.csv" class="file-link">Table B - FBref Data (CSV)</a>
+    </div>
+
+    <div class="section">
+        <h2>Data Schema</h2>
+        <p>Both tables share the following schema:</p>
+        <ul>
+            <li><strong>ID</strong> - Unique identifier for each player</li>
+            <li><strong>name</strong> - Player's full name</li>
+            <li><strong>position</strong> - Playing position</li>
+            <li><strong>age</strong> - Player's age</li>
+            <li><strong>nationality</strong> - Player's nationality</li>
+            <li><strong>current_club</strong> - Current team</li>
+            <li><strong>market_value/matches_played</strong> - Value or games played depending on source</li>
+        </ul>
+    </div>
+</body>
+</html>
