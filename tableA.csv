@@ -1,1001 +1,1001 @@
-ID,name,position,age,nationality,current_club,market_value
-t1,Erling Haaland,,24,Norway,,€200.00m
-t2,Vinicius Junior,,24,Brazil,,€200.00m
-t3,Lamine Yamal,,17,Spain,,€180.00m
-t4,Jude Bellingham,,21,England,,€180.00m
-t5,Kylian Mbappé,,26,France,,€160.00m
-t6,Bukayo Saka,,23,England,,€150.00m
-t7,Florian Wirtz,,21,Germany,,€140.00m
-t8,Jamal Musiala,,21,Germany,,€140.00m
-t9,Phil Foden,,24,England,,€140.00m
-t10,Cole Palmer,,22,England,,€130.00m
-t11,Federico Valverde,,26,Uruguay,,€130.00m
-t12,Rodri,,28,Spain,,€130.00m
-t13,Declan Rice,,26,England,,€110.00m
-t14,Martin Ødegaard,,26,Norway,,€110.00m
-t15,Pedri,,22,Spain,,€100.00m
-t16,Rodrygo,,24,Brazil,,€100.00m
-t17,Lautaro Martínez,,27,Argentina,,€100.00m
-t18,Harry Kane,,31,England,,€90.00m
-t19,Khvicha Kvaratskhelia,,24,Georgia,,€85.00m
-t20,Luis Díaz,,28,Colombia,,€85.00m
-t21,Moisés Caicedo,,23,Ecuador,,€80.00m
-t22,Gavi,,20,Spain,,€80.00m
-t23,Eduardo Camavinga,,22,France,,€80.00m
-t24,Julián Alvarez,,25,Argentina,,€80.00m
-t25,Xavi Simons,,21,Netherlands,,€80.00m
-t26,Alexis Mac Allister,,26,Argentina,,€80.00m
-t27,Bruno Guimarães,,27,Brazil,,€80.00m
-t28,William Saliba,,23,France,,€80.00m
-t29,Aurélien Tchouaméni,,25,France,,€80.00m
-t30,Raphinha,,28,Brazil,,€80.00m
-t31,Nicolò Barella,,28,Italy,,€80.00m
-t32,Enzo Fernández,,24,Argentina,,€75.00m
-t33,Josko Gvardiol,,23,Croatia,,€75.00m
-t34,Dominik Szoboszlai,,24,Hungary,,€75.00m
-t35,Gabriel Magalhães,,27,Brazil,,€75.00m
-t36,Victor Osimhen,,26,Nigeria,,€75.00m
-t37,Rafael Leão,,25,Portugal,,€75.00m
-t38,Alexander Isak,,25,Sweden,,€75.00m
-t39,Viktor Gyökeres,,26,Sweden,,€75.00m
-t40,Marcus Thuram,,27,France,,€75.00m
-t41,Alessandro Bastoni,,25,Italy,,€75.00m
-t42,Trent Alexander-Arnold,,26,England,,€75.00m
-t43,Kai Havertz,,25,Germany,,€75.00m
-t44,Rúben Dias,,27,Portugal,,€75.00m
-t45,Pau Cubarsí,,18,Spain,,€70.00m
-t46,Nico Williams,,22,Spain,,€70.00m
-t47,Bradley Barcola,,22,France,,€65.00m
-t48,Michael Olise,,23,France,,€65.00m
-t49,Darwin Núñez,,25,Uruguay,,€65.00m
-t50,Cristian Romero,,26,Argentina,,€65.00m
-t51,Warren Zaïre-Emery,,18,France,,€60.00m
-t52,João Neves,,20,Portugal,,€60.00m
-t53,Rasmus Højlund,,22,Denmark,,€60.00m
-t54,Bremer,,27,Brazil,,€60.00m
-t55,Anthony Gordon,,23,England,,€60.00m
-t56,Jérémy Doku,,22,Belgium,,€60.00m
-t57,Omar Marmoush,,26,Egypt,,€60.00m
-t58,Cody Gakpo,,25,Netherlands,,€60.00m
-t59,Dejan Kulusevski,,24,Sweden,,€60.00m
-t60,Martín Zubimendi,,26,Spain,,€60.00m
-t61,Jules Koundé,,26,France,,€60.00m
-t62,Achraf Hakimi,,26,Morocco,,€60.00m
-t63,Loïs Openda,,24,Belgium,,€60.00m
-t64,Dušan Vlahović,,25,Serbia,,€60.00m
-t65,James Maddison,,28,England,,€60.00m
-t66,Dani Olmo,,26,Spain,,€60.00m
-t67,Bernardo Silva,,30,Portugal,,€60.00m
-t68,Federico Dimarco,,27,Italy,,€60.00m
-t69,Leny Yoro,,19,France,,€55.00m
-t70,Kobbie Mainoo,,19,England,,€55.00m
-t71,Nicolas Jackson,,23,Senegal,,€55.00m
-t72,Savinho,,20,Brazil,,€55.00m
-t73,Gabriel Martinelli,,23,Brazil,,€55.00m
-t74,Nuno Mendes,,22,Portugal,,€55.00m
-t75,Levi Colwill,,21,England,,€55.00m
-t76,Micky van de Ven,,23,Netherlands,,€55.00m
-t77,Vitinha,,25,Portugal,,€55.00m
-t78,Pedro Neto,,24,Portugal,,€55.00m
-t79,Amadou Onana,,23,Belgium,,€55.00m
-t80,Ronald Araujo,,25,Uruguay,,€55.00m
-t81,Eberechi Eze,,26,England,,€55.00m
-t82,Ryan Gravenberch,,22,Netherlands,,€55.00m
-t83,Ademola Lookman,,27,Nigeria,,€55.00m
-t84,Ben White,,27,England,,€55.00m
-t85,Ollie Watkins,,29,England,,€55.00m
-t86,Ousmane Dembélé,,27,France,,€55.00m
-t87,Marcus Rashford,,27,England,,€55.00m
-t88,Bruno Fernandes,,30,Portugal,,€55.00m
-t89,Mohamed Salah,,32,Egypt,,€55.00m
-t90,Estêvão,,17,Brazil,,€50.00m
-t91,Murillo,,22,Brazil,,€50.00m
-t92,Samu Aghehowa,,20,Spain,,€50.00m
-t93,Alejandro Garnacho,,20,Argentina,,€50.00m
-t94,Aleksandar Pavlovic,,20,Germany,,€50.00m
-t95,Pablo Barrios,,21,Spain,,€50.00m
-t96,Jamie Gittens,,20,England,,€50.00m
-t97,Fermín López,,21,Spain,,€50.00m
-t98,Alejandro Balde,,21,Spain,,€50.00m
-t99,Benjamin Sesko,,21,Slovenia,,€50.00m
-t100,João Pedro,,23,Brazil,,€50.00m
-t101,Castello Lukeba,,22,France,,€50.00m
-t102,Éderson,,25,Brazil,,€50.00m
-t103,Oihan Sancet,,24,Spain,,€50.00m
-t104,Gonçalo Ramos,,23,Portugal,,€50.00m
-t105,Álex Baena,,23,Spain,,€50.00m
-t106,Mohammed Kudus,,24,Ghana,,€50.00m
-t107,Matheus Cunha,,25,Brazil,,€50.00m
-t108,Jeremie Frimpong,,24,Netherlands,,€50.00m
-t109,Lisandro Martínez,,27,Argentina,,€50.00m
-t110,Manuel Ugarte,,23,Uruguay,,€50.00m
-t111,Brennan Johnson,,23,Wales,,€50.00m
-t112,Tijjani Reijnders,,26,Netherlands,,€50.00m
-t113,Alphonso Davies,,24,Canada,,€50.00m
-t114,Bryan Mbeumo,,25,Cameroon,,€50.00m
-t115,Teun Koopmeiners,,26,Netherlands,,€50.00m
-t116,Ibrahima Konaté,,25,France,,€50.00m
-t117,Dayot Upamecano,,26,France,,€50.00m
-t118,Christopher Nkunku,,27,France,,€50.00m
-t119,Diogo Jota,,28,Portugal,,€50.00m
-t120,Theo Hernández,,27,France,,€50.00m
-t121,Christian Pulisic,,26,United States,,€50.00m
-t122,Joshua Kimmich,,30,Germany,,€50.00m
-t123,Arda Güler,,19,Türkiye,,€45.00m
-t124,Kenan Yıldız,,19,Türkiye,,€45.00m
-t125,Victor Boniface,,24,Nigeria,,€45.00m
-t126,Giorgio Scalvini,,21,Italy,,€45.00m
-t127,Pape Matar Sarr,,22,Senegal,,€45.00m
-t128,Destiny Udogie,,22,Italy,,€45.00m
-t129,Pedro Porro,,25,Spain,,€45.00m
-t130,Gonçalo Inácio,,23,Portugal,,€45.00m
-t131,Jonathan David,,25,Canada,,€45.00m
-t132,Kaoru Mitoma,,27,Japan,,€45.00m
-t133,Min-jae Kim,,28,"Korea, South",,€45.00m
-t134,Riccardo Calafiori,,22,Italy,,€45.00m
-t135,Morten Hjulmand,,25,Denmark,,€45.00m
-t136,Douglas Luiz,,26,Brazil,,€45.00m
-t137,Curtis Jones,,24,England,,€45.00m
-t138,Jurrien Timber,,23,Netherlands,,€45.00m
-t139,Pau Torres,,28,Spain,,€45.00m
-t140,Marc Guéhi,,24,England,,€45.00m
-t141,Alessandro Buongiorno,,25,Italy,,€45.00m
-t142,Gabriel Jesus,,27,Brazil,,€45.00m
-t143,Sven Botman,,25,Netherlands,,€45.00m
-t144,Mikel Merino,,28,Spain,,€45.00m
-t145,Frenkie de Jong,,27,Netherlands,,€45.00m
-t146,Matthijs de Ligt,,25,Netherlands,,€45.00m
-t147,Jarrod Bowen,,28,England,,€45.00m
-t148,Dominic Solanke,,27,England,,€45.00m
-t149,Jack Grealish,,29,England,,€45.00m
-t150,Leroy Sané,,29,Germany,,€45.00m
-t151,Jarrad Branthwaite,,22,England,,€42.00m
-t152,Enzo Millot,,22,France,,€42.00m
-t153,Joshua Zirkzee,,23,Netherlands,,€42.00m
-t154,Ousmane Diomande,,21,Cote d'Ivoire,,€40.00m
-t155,Endrick,,18,Brazil,,€40.00m
-t156,Désiré Doué,,19,France,,€40.00m
-t157,Maghnes Akliouche,,22,France,,€40.00m
-t158,João Gomes,,24,Brazil,,€40.00m
-t159,Hugo Ekitiké,,22,France,,€40.00m
-t160,Rico Lewis,,20,England,,€40.00m
-t161,Willian Pacho,,23,Ecuador,,€40.00m
-t162,Piero Hincapié,,23,Ecuador,,€40.00m
-t163,Jhon Durán,,21,Colombia,,€40.00m
-t164,Evan Ferguson,,20,Ireland,,€40.00m
-t165,Roméo Lavia,,21,Belgium,,€40.00m
-t166,Matheus Nunes,,26,Portugal,,€40.00m
-t167,Johan Bakayoko,,21,Belgium,,€40.00m
-t168,Edmond Tapsoba,,26,Burkina Faso,,€40.00m
-t169,Dani Vivian,,25,Spain,,€40.00m
-t170,Noni Madueke,,22,England,,€40.00m
-t171,Morgan Rogers,,22,England,,€40.00m
-t172,Giorgi Mamardashvili,,24,Georgia,,€40.00m
-t173,Conor Gallagher,,25,England,,€40.00m
-t174,Andrea Cambiaso,,24,Italy,,€40.00m
-t175,Lucas Paquetá,,27,Brazil,,€40.00m
-t176,Morgan Gibbs-White,,25,England,,€40.00m
-t177,Takefusa Kubo,,23,Japan,,€40.00m
-t178,Exequiel Palacios,,26,Argentina,,€40.00m
-t179,Éder Militão,,27,Brazil,,€40.00m
-t180,Nico Schlotterbeck,,25,Germany,,€40.00m
-t181,Diogo Costa,,25,Portugal,,€40.00m
-t182,Diogo Dalot,,25,Portugal,,€40.00m
-t183,Benjamin Pavard,,28,France,,€40.00m
-t184,Robin Le Normand,,28,Spain,,€40.00m
-t185,Joelinton,,28,Brazil,,€40.00m
-t186,Scott McTominay,,28,Scotland,,€40.00m
-t187,Manuel Akanji,,29,Switzerland,,€40.00m
-t188,Serhou Guirassy,,28,Guinea,,€40.00m
-t189,David Raya,,29,Spain,,€40.00m
-t190,Gregor Kobel,,27,Switzerland,,€40.00m
-t191,João Palhinha,,29,Portugal,,€40.00m
-t192,Alejandro Grimaldo,,29,Spain,,€40.00m
-t193,Marquinhos,,30,Brazil,,€40.00m
-t194,Hakan Çalhanoğlu,,31,Türkiye,,€40.00m
-t195,Ilya Zabarnyi,,22,Ukraine,,€38.00m
-t196,António Silva,,21,Portugal,,€38.00m
-t197,Charles De Ketelaere,,23,Belgium,,€38.00m
-t198,Sandro Tonali,,24,Italy,,€38.00m
-t199,Boubacar Kamara,,25,France,,€38.00m
-t200,Leon Bailey,,27,Jamaica,,€38.00m
-t201,Heung-min Son,,32,"Korea, South",,€38.00m
-t202,Santiago Gimenez,,23,Mexico,,€37.00m
-t203,Francisco Conceição,,22,Portugal,,€36.00m
-t204,Carlos Baleba,,21,Cameroon,,€35.00m
-t205,Hugo Larsson,,20,Sweden,,€35.00m
-t206,Alan Varela,,23,Argentina,,€35.00m
-t207,Evanilson,,25,Brazil,,€35.00m
-t208,Malo Gusto,,21,France,,€35.00m
-t209,Rayan Aït-Nouri,,23,Algeria,,€35.00m
-t210,Harvey Elliott,,21,England,,€35.00m
-t211,Mateo Retegui,,25,Italy,,€35.00m
-t212,Cheick Doucouré,,25,Mali,,€35.00m
-t213,Mason Greenwood,,23,England,,€35.00m
-t214,Maximilian Kilman,,27,England,,€35.00m
-t215,Tino Livramento,,22,England,,€35.00m
-t216,Karim Adeyemi,,23,Germany,,€35.00m
-t217,Nico González,,26,Argentina,,€35.00m
-t218,Khéphren Thuram,,23,France,,€35.00m
-t219,Ezri Konsa,,27,England,,€35.00m
-t220,Yves Bissouma,,28,Mali,,€35.00m
-t221,Dávid Hancko,,27,Slovakia,,€35.00m
-t222,Harvey Barnes,,27,England,,€35.00m
-t223,Moussa Diaby,,25,France,,€35.00m
-t224,Nayef Aguerd,,28,Morocco,,€35.00m
-t225,Rodrigo Bentancur,,27,Uruguay,,€35.00m
-t226,Mikel Oyarzabal,,27,Spain,,€35.00m
-t227,Fabián Ruiz,,28,Spain,,€35.00m
-t228,Gianluigi Donnarumma,,25,Italy,,€35.00m
-t229,Brahim Díaz,,25,Morocco,,€35.00m
-t230,Brais Méndez,,28,Spain,,€35.00m
-t231,Guglielmo Vicario,,28,Italy,,€35.00m
-t232,Kingsley Coman,,28,France,,€35.00m
-t233,André Onana,,28,Cameroon,,€35.00m
-t234,Julian Brandt,,28,Germany,,€35.00m
-t235,Mike Maignan,,29,France,,€35.00m
-t236,Nathan Aké,,29,Netherlands,,€35.00m
-t237,Serge Gnabry,,29,Germany,,€35.00m
-t238,Kevin De Bruyne,,33,Belgium,,€35.00m
-t239,Adam Wharton,,21,England,,€32.00m
-t240,Georgiy Sudakov,,22,Ukraine,,€32.00m
-t241,Jean-Clair Todibo,,25,France,,€32.00m
-t242,Jan Paul van Hecke,,24,Netherlands,,€32.00m
-t243,Georginio Rutter,,22,France,,€32.00m
-t244,Jacob Ramsey,,23,England,,€32.00m
-t245,Ian Maatsen,,22,Netherlands,,€32.00m
-t246,Mattéo Guendouzi,,25,France,,€32.00m
-t247,Angelo Stiller,,23,Germany,,€32.00m
-t248,Pedro Gonçalves,,26,Portugal,,€32.00m
-t249,Quinten Timber,,23,Netherlands,,€32.00m
-t250,Lutsharel Geertruida,,24,Netherlands,,€32.00m
-t251,Joey Veerman,,26,Netherlands,,€32.00m
-t252,Davide Frattesi,,25,Italy,,€32.00m
-t253,Emile Smith Rowe,,24,England,,€32.00m
-t254,Jerdy Schouten,,28,Netherlands,,€32.00m
-t255,Mason Mount,,26,England,,€32.00m
-t256,Noussair Mazraoui,,27,Morocco,,€32.00m
-t257,Takehiro Tomiyasu,,26,Japan,,€32.00m
-t258,Lucas Hernández,,29,France,,€32.00m
-t259,Joachim Andersen,,28,Denmark,,€32.00m
-t260,John Stones,,30,England,,€32.00m
-t261,Geovany Quenda,,17,Portugal,,€30.00m
-t262,Jorrel Hato,,18,Netherlands,,€30.00m
-t263,Ethan Nwaneri,,17,England,,€30.00m
-t264,Lucas Beraldo,,21,Brazil,,€30.00m
-t265,Eliesse Ben Seghir,,19,Morocco,,€30.00m
-t266,Mathys Tel,,19,France,,€30.00m
-t267,Simon Adingra,,23,Cote d'Ivoire,,€30.00m
-t268,Bilal El Khannouss,,20,Morocco,,€30.00m
-t269,Cristhian Mosquera,,20,Spain,,€30.00m
-t270,Odilon Kossounou,,24,Cote d'Ivoire,,€30.00m
-t271,Marc Casadó,,21,Spain,,€30.00m
-t272,Rayan Cherki,,21,France,,€30.00m
-t273,Maximilian Beier,,22,Germany,,€30.00m
-t274,Youssouf Fofana,,26,France,,€30.00m
-t275,Yéremy Pino,,22,Spain,,€30.00m
-t276,Kang-in Lee,,23,"Korea, South",,€30.00m
-t277,Mykhaylo Mudryk,,24,Ukraine,,€30.00m
-t278,Isak Hien,,26,Sweden,,€30.00m
-t279,Randal Kolo Muani,,26,France,,€30.00m
-t280,Wesley Fofana,,24,France,,€30.00m
-t281,Brian Brobbey,,23,Netherlands,,€30.00m
-t282,Reece James,,25,England,,€30.00m
-t283,Malik Tillman,,22,United States,,€30.00m
-t284,Lucas Chevalier,,23,France,,€30.00m
-t285,João Félix,,25,Portugal,,€30.00m
-t286,Yann Bisseck,,24,Germany,,€30.00m
-t287,Mats Wieffer,,25,Netherlands,,€30.00m
-t288,Edson Álvarez,,27,Mexico,,€30.00m
-t289,Jadon Sancho,,24,England,,€30.00m
-t290,Axel Disasi,,26,France,,€30.00m
-t291,Richarlison,,27,Brazil,,€30.00m
-t292,Ferdi Kadıoğlu,,25,Türkiye,,€30.00m
-t293,Moise Kean,,24,Italy,,€30.00m
-t294,Hiroki Ito,,25,Japan,,€30.00m
-t295,Pervis Estupiñán,,27,Ecuador,,€30.00m
-t296,Artem Dovbyk,,27,Ukraine,,€30.00m
-t297,Denis Zakaria,,28,Switzerland,,€30.00m
-t298,Gianluca Scamacca,,26,Italy,,€30.00m
-t299,Marc Cucurella,,26,Spain,,€30.00m
-t300,Aleksandr Golovin,,28,Russia,,€30.00m
-t301,Youri Tielemans,,27,Belgium,,€30.00m
-t302,Ederson,,31,Brazil,,€30.00m
-t303,Oleksandr Zinchenko,,28,Ukraine,,€30.00m
-t304,Jonathan Tah,,29,Germany,,€30.00m
-t305,Leandro Trossard,,30,Belgium,,€30.00m
-t306,Yankuba Minteh,,20,The Gambia,,€28.00m
-t307,Antonio Nusa,,19,Norway,,€28.00m
-t308,Danilo,,23,Brazil,,€28.00m
-t309,Milos Kerkez,,21,Hungary,,€28.00m
-t310,Mohamed Simakan,,24,France,,€28.00m
-t311,Mario Gila,,24,Spain,,€28.00m
-t312,Antoine Semenyo,,25,Ghana,,€28.00m
-t313,Tomás Araújo,,22,Portugal,,€28.00m
-t314,Josip Stanisic,,24,Croatia,,€28.00m
-t315,Kiernan Dewsbury-Hall,,26,England,,€28.00m
-t316,David Neres,,27,Brazil,,€28.00m
-t317,Nathan Collins,,23,Ireland,,€28.00m
-t318,Samuele Ricci,,23,Italy,,€28.00m
-t319,Benoît Badiashile,,23,France,,€28.00m
-t320,Orkun Kökçü,,24,Türkiye,,€28.00m
-t321,Jakub Kiwior,,25,Poland,,€28.00m
-t322,Matty Cash,,27,Poland,,€28.00m
-t323,Felix Nmecha,,24,Germany,,€28.00m
-t324,Vitaliy Mykolenko,,25,Ukraine,,€28.00m
-t325,Ferran Torres,,24,Spain,,€28.00m
-t326,Yoane Wissa,,28,DR Congo,,€28.00m
-t327,Ibrahim Sangaré,,27,Cote d'Ivoire,,€28.00m
-t328,Antonee Robinson,,27,United States,,€28.00m
-t329,Joe Willock,,25,England,,€28.00m
-t330,Deniz Undav,,28,Germany,,€28.00m
-t331,Ermedin Demirovic,,26,Bosnia-Herzegovina,,€28.00m
-t332,Donyell Malen,,26,Netherlands,,€28.00m
-t333,Albert Gudmundsson,,27,Iceland,,€28.00m
-t334,Marcos Llorente,,30,Spain,,€28.00m
-t335,Manuel Locatelli,,27,Italy,,€28.00m
-t336,Unai Simón,,27,Spain,,€28.00m
-t337,Joe Gomez,,27,England,,€28.00m
-t338,Ivan Toney,,28,England,,€28.00m
-t339,Rúben Neves,,27,Portugal,,€28.00m
-t340,Xaver Schlager,,27,Austria,,€28.00m
-t341,Stanislav Lobotka,,30,Slovakia,,€28.00m
-t342,Virgil van Dijk,,33,Netherlands,,€28.00m
-t343,Mateo Kovacic,,30,Croatia,,€28.00m
-t344,Thiago Almada,,23,Argentina,,€27.00m
-t345,Pepê,,27,Brazil,,€27.00m
-t346,Galeno,,27,Brazil,,€27.00m
-t347,Jørgen Strand Larsen,,25,Norway,,€27.00m
-t348,Trincão,,25,Portugal,,€27.00m
-t349,Frank Anguissa,,29,Cameroon,,€27.00m
-t350,Olivier Boscagli,,27,France,,€27.00m
-t351,Manu Koné,,23,France,,€26.00m
-t352,Pierre Kalulu,,24,France,,€26.00m
-t353,Ayyoub Bouaddi,,17,France,,€25.00m
-t354,Arthur Vermeeren,,20,Belgium,,€25.00m
-t355,Archie Gray,,18,England,,€25.00m
-t356,Santiago Castro,,20,Argentina,,€25.00m
-t357,André,,23,Brazil,,€25.00m
-t358,Andrey Santos,,20,Brazil,,€25.00m
-t359,Malick Fofana,,19,Belgium,,€25.00m
-t360,Igor Thiago,,23,Brazil,,€25.00m
-t361,Alberto Moleiro,,21,Spain,,€25.00m
-t362,Tyrick Mitchell,,25,England,,€25.00m
-t363,Loïc Badé,,24,France,,€25.00m
-t364,Lesley Ugochukwu,,20,France,,€25.00m
-t365,Brajan Gruda,,20,Germany,,€25.00m
-t366,Samuel Lino,,25,Brazil,,€25.00m
-t367,Lewis Hall,,20,England,,€25.00m
-t368,Oscar Bobb,,21,Norway,,€25.00m
-t369,Elye Wahi,,22,France,,€25.00m
-t370,Wilfried Singo,,24,Cote d'Ivoire,,€25.00m
-t371,Yan Couto,,22,Brazil,,€25.00m
-t372,Liam Delap,,22,England,,€25.00m
-t373,Leif Davis,,25,England,,€25.00m
-t374,Dwight McNeil,,25,England,,€25.00m
-t375,Anthony Elanga,,22,Sweden,,€25.00m
-t376,Radu Drăgușin,,23,Romania,,€25.00m
-t377,Bart Verbruggen,,22,Netherlands,,€25.00m
-t378,Anatoliy Trubin,,23,Ukraine,,€25.00m
-t379,Amad Diallo,,22,Cote d'Ivoire,,€25.00m
-t380,Nuno Tavares,,25,Portugal,,€25.00m
-t381,Nicolò Rovella,,23,Italy,,€25.00m
-t382,Miguel Gutiérrez,,23,Spain,,€25.00m
-t383,Federico Gatti,,26,Italy,,€25.00m
-t384,Taylor Harwood-Bellis,,23,England,,€25.00m
-t385,Folarin Balogun,,23,United States,,€25.00m
-t386,Edon Zhegrova,,25,Kosovo,,€25.00m
-t387,Daniel Muñoz,,28,Colombia,,€25.00m
-t388,Facundo Medina,,25,Argentina,,€25.00m
-t389,Bafodé Diakité,,24,France,,€25.00m
-t390,Nahuel Molina,,26,Argentina,,€25.00m
-t391,Nikola Milenković,,27,Serbia,,€25.00m
-t392,Angel Gomes,,24,England,,€25.00m
-t393,Kerem Aktürkoğlu,,26,Türkiye,,€25.00m
-t394,Evan Ndicka,,25,Cote d'Ivoire,,€25.00m
-t395,Dan Ndoye,,24,Switzerland,,€25.00m
-t396,Sean Longstaff,,27,England,,€25.00m
-t397,Eddie Nketiah,,25,England,,€25.00m
-t398,Jonathan Burkardt,,24,Germany,,€25.00m
-t399,Malcom,,27,Brazil,,€25.00m
-t400,Mathias Jensen,,29,Denmark,,€25.00m
-t401,David Raum,,26,Germany,,€25.00m
-t402,Kevin Danso,,26,Austria,,€25.00m
-t403,Rodrigo De Paul,,30,Argentina,,€25.00m
-t404,Alex Iwobi,,28,Nigeria,,€25.00m
-t405,Alexander Sørloth,,29,Norway,,€25.00m
-t406,Andrew Robertson,,30,Scotland,,€25.00m
-t407,Konrad Laimer,,27,Austria,,€25.00m
-t408,Álex Remiro,,29,Spain,,€25.00m
-t409,Adrien Rabiot,,29,France,,€25.00m
-t410,Jan Oblak,,32,Slovenia,,€25.00m
-t411,Emiliano Martínez,,32,Argentina,,€25.00m
-t412,Thibaut Courtois,,32,Belgium,,€25.00m
-t413,Alisson,,32,Brazil,,€25.00m
-t414,Romelu Lukaku,,31,Belgium,,€25.00m
-t415,Aleksandar Mitrović,,30,Serbia,,€25.00m
-t416,Jack Hinshelwood,,19,England,,€24.00m
-t417,Elliot Anderson,,22,England,,€24.00m
-t418,Zeno Debast,,21,Belgium,,€24.00m
-t419,Marcos Senesi,,27,Argentina,,€24.00m
-t420,Callum Hudson-Odoi,,24,England,,€24.00m
-t421,Weston McKennie,,26,United States,,€24.00m
-t422,Tomas Soucek,,29,Czech Republic,,€24.00m
-t423,Waldemar Anton,,28,Germany,,€24.00m
-t424,Antonio Rüdiger,,31,Germany,,€24.00m
-t425,Ismael Saibari,,24,Morocco,,€23.00m
-t426,Gabri Veiga,,22,Spain,,€23.00m
-t427,Gabriel Sara,,25,Brazil,,€23.00m
-t428,Quilindschy Hartman,,23,Netherlands,,€23.00m
-t429,Pedro,,27,Brazil,,€23.00m
-t430,Vangelis Pavlidis,,26,Greece,,€23.00m
-t431,John McGinn,,30,Scotland,,€23.00m
-t432,Luis Guilherme,,19,Brazil,,€22.00m
-t433,Facundo Buonanotte,,20,Argentina,,€22.00m
-t434,Oscar Gloukh,,20,Israel,,€22.00m
-t435,Lewis Miley,,18,England,,€22.00m
-t436,Tyler Dibling,,18,England,,€22.00m
-t437,Luiz Henrique,,24,Brazil,,€22.00m
-t438,Mohamed Amoura,,24,Algeria,,€22.00m
-t439,Omari Hutchinson,,21,England,,€22.00m
-t440,Matías Soulé,,21,Argentina,,€22.00m
-t441,Julio Enciso,,21,Paraguay,,€22.00m
-t442,Jarell Quansah,,22,England,,€22.00m
-t443,Aaron Hickey,,22,Scotland,,€22.00m
-t444,Aitor Paredes,,24,Spain,,€22.00m
-t445,Carlos Augusto,,26,Brazil,,€22.00m
-t446,Fábio Vieira,,24,Portugal,,€22.00m
-t447,Amine Adli,,24,Morocco,,€22.00m
-t448,Yunus Musah,,22,United States,,€22.00m
-t449,Aaron Wan-Bissaka,,27,England,,€22.00m
-t450,Crysencio Summerville,,23,Netherlands,,€22.00m
-t451,Kevin Schade,,23,Germany,,€22.00m
-t452,Rodrigo Riquelme,,24,Spain,,€22.00m
-t453,Sam Beukema,,26,Netherlands,,€22.00m
-t454,Youssef En-Nesyri,,27,Morocco,,€22.00m
-t455,Lewis Ferguson,,25,Scotland,,€22.00m
-t456,Matt O'Riley,,24,Denmark,,€22.00m
-t457,Dodô,,26,Brazil,,€22.00m
-t458,Igor,,27,Brazil,,€22.00m
-t459,Sergiño Dest,,24,United States,,€22.00m
-t460,Ritsu Doan,,26,Japan,,€22.00m
-t461,Raoul Bellanova,,24,Italy,,€22.00m
-t462,Igor Zubeldia,,27,Spain,,€22.00m
-t463,Federico Chiesa,,27,Italy,,€22.00m
-t464,Caoimhín Kelleher,,26,Ireland,,€22.00m
-t465,Justin Kluivert,,25,Netherlands,,€22.00m
-t466,Matvey Safonov,,25,Russia,,€22.00m
-t467,Dominic Calvert-Lewin,,27,England,,€22.00m
-t468,Fikayo Tomori,,27,England,,€22.00m
-t469,Taiwo Awoniyi,,27,Nigeria,,€22.00m
-t470,Hee-chan Hwang,,29,"Korea, South",,€22.00m
-t471,Sofyan Amrabat,,28,Morocco,,€22.00m
-t472,Vitaly Janelt,,26,Germany,,€22.00m
-t473,Viktor Tsygankov,,27,Ukraine,,€22.00m
-t474,Patrik Schick,,29,Czech Republic,,€22.00m
-t475,Leon Goretzka,,30,Germany,,€22.00m
-t476,Raheem Sterling,,30,England,,€22.00m
-t477,Antoine Griezmann,,33,France,,€22.00m
-t478,Nico Paz,,20,Argentina,,€20.00m
-t479,Vitor Roque,,19,Brazil,,€20.00m
-t480,Patrick Dorgu,,20,Denmark,,€20.00m
-t481,Jeanuël Belocian,,19,France,,€20.00m
-t482,Lamine Camara,,21,Senegal,,€20.00m
-t483,Habib Diarra,,21,Senegal,,€20.00m
-t484,Alex Scott,,21,England,,€20.00m
-t485,Javi Guerra,,21,Spain,,€20.00m
-t486,Ange-Yoan Bonny,,21,France,,€20.00m
-t487,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t488,Vanderson,,23,Brazil,,€20.00m
-t489,Rodrigo Muniz,,23,Brazil,,€20.00m
-t490,Jacob Greaves,,24,England,,€20.00m
-t491,Johnny Cardoso,,23,United States,,€20.00m
-t492,Marcos Leonardo,,21,Brazil,,€20.00m
-t493,Orri Óskarsson,,20,Iceland,,€20.00m
-t494,El Bilal Touré,,23,Mali,,€20.00m
-t495,Keane Lewis-Potter,,23,England,,€20.00m
-t496,Beñat Prados,,24,Spain,,€20.00m
-t497,Conor Bradley,,21,Northern Ireland,,€20.00m
-t498,Matteo Ruggeri,,22,Italy,,€20.00m
-t499,Ander Barrenetxea,,23,Spain,,€20.00m
-t500,Toti,,26,Portugal,,€20.00m
-t501,Raheem Sterling,,30,England,,€22.00m
-t502,Antoine Griezmann,,33,France,,€22.00m
-t503,Nico Paz,,20,Argentina,,€20.00m
-t504,Vitor Roque,,19,Brazil,,€20.00m
-t505,Patrick Dorgu,,20,Denmark,,€20.00m
-t506,Jeanuël Belocian,,19,France,,€20.00m
-t507,Lamine Camara,,21,Senegal,,€20.00m
-t508,Habib Diarra,,21,Senegal,,€20.00m
-t509,Alex Scott,,21,England,,€20.00m
-t510,Javi Guerra,,21,Spain,,€20.00m
-t511,Ange-Yoan Bonny,,21,France,,€20.00m
-t512,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t513,Vanderson,,23,Brazil,,€20.00m
-t514,Rodrigo Muniz,,23,Brazil,,€20.00m
-t515,Jacob Greaves,,24,England,,€20.00m
-t516,Johnny Cardoso,,23,United States,,€20.00m
-t517,Marcos Leonardo,,21,Brazil,,€20.00m
-t518,Orri Óskarsson,,20,Iceland,,€20.00m
-t519,El Bilal Touré,,23,Mali,,€20.00m
-t520,Keane Lewis-Potter,,23,England,,€20.00m
-t521,Beñat Prados,,24,Spain,,€20.00m
-t522,Conor Bradley,,21,Northern Ireland,,€20.00m
-t523,Matteo Ruggeri,,22,Italy,,€20.00m
-t524,Ander Barrenetxea,,23,Spain,,€20.00m
-t525,Toti,,26,Portugal,,€20.00m
-t526,Raheem Sterling,,30,England,,€22.00m
-t527,Antoine Griezmann,,33,France,,€22.00m
-t528,Nico Paz,,20,Argentina,,€20.00m
-t529,Vitor Roque,,19,Brazil,,€20.00m
-t530,Patrick Dorgu,,20,Denmark,,€20.00m
-t531,Jeanuël Belocian,,19,France,,€20.00m
-t532,Lamine Camara,,21,Senegal,,€20.00m
-t533,Habib Diarra,,21,Senegal,,€20.00m
-t534,Alex Scott,,21,England,,€20.00m
-t535,Javi Guerra,,21,Spain,,€20.00m
-t536,Ange-Yoan Bonny,,21,France,,€20.00m
-t537,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t538,Vanderson,,23,Brazil,,€20.00m
-t539,Rodrigo Muniz,,23,Brazil,,€20.00m
-t540,Jacob Greaves,,24,England,,€20.00m
-t541,Johnny Cardoso,,23,United States,,€20.00m
-t542,Marcos Leonardo,,21,Brazil,,€20.00m
-t543,Orri Óskarsson,,20,Iceland,,€20.00m
-t544,El Bilal Touré,,23,Mali,,€20.00m
-t545,Keane Lewis-Potter,,23,England,,€20.00m
-t546,Beñat Prados,,24,Spain,,€20.00m
-t547,Conor Bradley,,21,Northern Ireland,,€20.00m
-t548,Matteo Ruggeri,,22,Italy,,€20.00m
-t549,Ander Barrenetxea,,23,Spain,,€20.00m
-t550,Toti,,26,Portugal,,€20.00m
-t551,Raheem Sterling,,30,England,,€22.00m
-t552,Antoine Griezmann,,33,France,,€22.00m
-t553,Nico Paz,,20,Argentina,,€20.00m
-t554,Vitor Roque,,19,Brazil,,€20.00m
-t555,Patrick Dorgu,,20,Denmark,,€20.00m
-t556,Jeanuël Belocian,,19,France,,€20.00m
-t557,Lamine Camara,,21,Senegal,,€20.00m
-t558,Habib Diarra,,21,Senegal,,€20.00m
-t559,Alex Scott,,21,England,,€20.00m
-t560,Javi Guerra,,21,Spain,,€20.00m
-t561,Ange-Yoan Bonny,,21,France,,€20.00m
-t562,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t563,Vanderson,,23,Brazil,,€20.00m
-t564,Rodrigo Muniz,,23,Brazil,,€20.00m
-t565,Jacob Greaves,,24,England,,€20.00m
-t566,Johnny Cardoso,,23,United States,,€20.00m
-t567,Marcos Leonardo,,21,Brazil,,€20.00m
-t568,Orri Óskarsson,,20,Iceland,,€20.00m
-t569,El Bilal Touré,,23,Mali,,€20.00m
-t570,Keane Lewis-Potter,,23,England,,€20.00m
-t571,Beñat Prados,,24,Spain,,€20.00m
-t572,Conor Bradley,,21,Northern Ireland,,€20.00m
-t573,Matteo Ruggeri,,22,Italy,,€20.00m
-t574,Ander Barrenetxea,,23,Spain,,€20.00m
-t575,Toti,,26,Portugal,,€20.00m
-t576,Raheem Sterling,,30,England,,€22.00m
-t577,Antoine Griezmann,,33,France,,€22.00m
-t578,Nico Paz,,20,Argentina,,€20.00m
-t579,Vitor Roque,,19,Brazil,,€20.00m
-t580,Patrick Dorgu,,20,Denmark,,€20.00m
-t581,Jeanuël Belocian,,19,France,,€20.00m
-t582,Lamine Camara,,21,Senegal,,€20.00m
-t583,Habib Diarra,,21,Senegal,,€20.00m
-t584,Alex Scott,,21,England,,€20.00m
-t585,Javi Guerra,,21,Spain,,€20.00m
-t586,Ange-Yoan Bonny,,21,France,,€20.00m
-t587,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t588,Vanderson,,23,Brazil,,€20.00m
-t589,Rodrigo Muniz,,23,Brazil,,€20.00m
-t590,Jacob Greaves,,24,England,,€20.00m
-t591,Johnny Cardoso,,23,United States,,€20.00m
-t592,Marcos Leonardo,,21,Brazil,,€20.00m
-t593,Orri Óskarsson,,20,Iceland,,€20.00m
-t594,El Bilal Touré,,23,Mali,,€20.00m
-t595,Keane Lewis-Potter,,23,England,,€20.00m
-t596,Beñat Prados,,24,Spain,,€20.00m
-t597,Conor Bradley,,21,Northern Ireland,,€20.00m
-t598,Matteo Ruggeri,,22,Italy,,€20.00m
-t599,Ander Barrenetxea,,23,Spain,,€20.00m
-t600,Toti,,26,Portugal,,€20.00m
-t601,Raheem Sterling,,30,England,,€22.00m
-t602,Antoine Griezmann,,33,France,,€22.00m
-t603,Nico Paz,,20,Argentina,,€20.00m
-t604,Vitor Roque,,19,Brazil,,€20.00m
-t605,Patrick Dorgu,,20,Denmark,,€20.00m
-t606,Jeanuël Belocian,,19,France,,€20.00m
-t607,Lamine Camara,,21,Senegal,,€20.00m
-t608,Habib Diarra,,21,Senegal,,€20.00m
-t609,Alex Scott,,21,England,,€20.00m
-t610,Javi Guerra,,21,Spain,,€20.00m
-t611,Ange-Yoan Bonny,,21,France,,€20.00m
-t612,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t613,Vanderson,,23,Brazil,,€20.00m
-t614,Rodrigo Muniz,,23,Brazil,,€20.00m
-t615,Jacob Greaves,,24,England,,€20.00m
-t616,Johnny Cardoso,,23,United States,,€20.00m
-t617,Marcos Leonardo,,21,Brazil,,€20.00m
-t618,Orri Óskarsson,,20,Iceland,,€20.00m
-t619,El Bilal Touré,,23,Mali,,€20.00m
-t620,Keane Lewis-Potter,,23,England,,€20.00m
-t621,Beñat Prados,,24,Spain,,€20.00m
-t622,Conor Bradley,,21,Northern Ireland,,€20.00m
-t623,Matteo Ruggeri,,22,Italy,,€20.00m
-t624,Ander Barrenetxea,,23,Spain,,€20.00m
-t625,Toti,,26,Portugal,,€20.00m
-t626,Raheem Sterling,,30,England,,€22.00m
-t627,Antoine Griezmann,,33,France,,€22.00m
-t628,Nico Paz,,20,Argentina,,€20.00m
-t629,Vitor Roque,,19,Brazil,,€20.00m
-t630,Patrick Dorgu,,20,Denmark,,€20.00m
-t631,Jeanuël Belocian,,19,France,,€20.00m
-t632,Lamine Camara,,21,Senegal,,€20.00m
-t633,Habib Diarra,,21,Senegal,,€20.00m
-t634,Alex Scott,,21,England,,€20.00m
-t635,Javi Guerra,,21,Spain,,€20.00m
-t636,Ange-Yoan Bonny,,21,France,,€20.00m
-t637,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t638,Vanderson,,23,Brazil,,€20.00m
-t639,Rodrigo Muniz,,23,Brazil,,€20.00m
-t640,Jacob Greaves,,24,England,,€20.00m
-t641,Johnny Cardoso,,23,United States,,€20.00m
-t642,Marcos Leonardo,,21,Brazil,,€20.00m
-t643,Orri Óskarsson,,20,Iceland,,€20.00m
-t644,El Bilal Touré,,23,Mali,,€20.00m
-t645,Keane Lewis-Potter,,23,England,,€20.00m
-t646,Beñat Prados,,24,Spain,,€20.00m
-t647,Conor Bradley,,21,Northern Ireland,,€20.00m
-t648,Matteo Ruggeri,,22,Italy,,€20.00m
-t649,Ander Barrenetxea,,23,Spain,,€20.00m
-t650,Toti,,26,Portugal,,€20.00m
-t651,Raheem Sterling,,30,England,,€22.00m
-t652,Antoine Griezmann,,33,France,,€22.00m
-t653,Nico Paz,,20,Argentina,,€20.00m
-t654,Vitor Roque,,19,Brazil,,€20.00m
-t655,Patrick Dorgu,,20,Denmark,,€20.00m
-t656,Jeanuël Belocian,,19,France,,€20.00m
-t657,Lamine Camara,,21,Senegal,,€20.00m
-t658,Habib Diarra,,21,Senegal,,€20.00m
-t659,Alex Scott,,21,England,,€20.00m
-t660,Javi Guerra,,21,Spain,,€20.00m
-t661,Ange-Yoan Bonny,,21,France,,€20.00m
-t662,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t663,Vanderson,,23,Brazil,,€20.00m
-t664,Rodrigo Muniz,,23,Brazil,,€20.00m
-t665,Jacob Greaves,,24,England,,€20.00m
-t666,Johnny Cardoso,,23,United States,,€20.00m
-t667,Marcos Leonardo,,21,Brazil,,€20.00m
-t668,Orri Óskarsson,,20,Iceland,,€20.00m
-t669,El Bilal Touré,,23,Mali,,€20.00m
-t670,Keane Lewis-Potter,,23,England,,€20.00m
-t671,Beñat Prados,,24,Spain,,€20.00m
-t672,Conor Bradley,,21,Northern Ireland,,€20.00m
-t673,Matteo Ruggeri,,22,Italy,,€20.00m
-t674,Ander Barrenetxea,,23,Spain,,€20.00m
-t675,Toti,,26,Portugal,,€20.00m
-t676,Raheem Sterling,,30,England,,€22.00m
-t677,Antoine Griezmann,,33,France,,€22.00m
-t678,Nico Paz,,20,Argentina,,€20.00m
-t679,Vitor Roque,,19,Brazil,,€20.00m
-t680,Patrick Dorgu,,20,Denmark,,€20.00m
-t681,Jeanuël Belocian,,19,France,,€20.00m
-t682,Lamine Camara,,21,Senegal,,€20.00m
-t683,Habib Diarra,,21,Senegal,,€20.00m
-t684,Alex Scott,,21,England,,€20.00m
-t685,Javi Guerra,,21,Spain,,€20.00m
-t686,Ange-Yoan Bonny,,21,France,,€20.00m
-t687,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t688,Vanderson,,23,Brazil,,€20.00m
-t689,Rodrigo Muniz,,23,Brazil,,€20.00m
-t690,Jacob Greaves,,24,England,,€20.00m
-t691,Johnny Cardoso,,23,United States,,€20.00m
-t692,Marcos Leonardo,,21,Brazil,,€20.00m
-t693,Orri Óskarsson,,20,Iceland,,€20.00m
-t694,El Bilal Touré,,23,Mali,,€20.00m
-t695,Keane Lewis-Potter,,23,England,,€20.00m
-t696,Beñat Prados,,24,Spain,,€20.00m
-t697,Conor Bradley,,21,Northern Ireland,,€20.00m
-t698,Matteo Ruggeri,,22,Italy,,€20.00m
-t699,Ander Barrenetxea,,23,Spain,,€20.00m
-t700,Toti,,26,Portugal,,€20.00m
-t701,Raheem Sterling,,30,England,,€22.00m
-t702,Antoine Griezmann,,33,France,,€22.00m
-t703,Nico Paz,,20,Argentina,,€20.00m
-t704,Vitor Roque,,19,Brazil,,€20.00m
-t705,Patrick Dorgu,,20,Denmark,,€20.00m
-t706,Jeanuël Belocian,,19,France,,€20.00m
-t707,Lamine Camara,,21,Senegal,,€20.00m
-t708,Habib Diarra,,21,Senegal,,€20.00m
-t709,Alex Scott,,21,England,,€20.00m
-t710,Javi Guerra,,21,Spain,,€20.00m
-t711,Ange-Yoan Bonny,,21,France,,€20.00m
-t712,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t713,Vanderson,,23,Brazil,,€20.00m
-t714,Rodrigo Muniz,,23,Brazil,,€20.00m
-t715,Jacob Greaves,,24,England,,€20.00m
-t716,Johnny Cardoso,,23,United States,,€20.00m
-t717,Marcos Leonardo,,21,Brazil,,€20.00m
-t718,Orri Óskarsson,,20,Iceland,,€20.00m
-t719,El Bilal Touré,,23,Mali,,€20.00m
-t720,Keane Lewis-Potter,,23,England,,€20.00m
-t721,Beñat Prados,,24,Spain,,€20.00m
-t722,Conor Bradley,,21,Northern Ireland,,€20.00m
-t723,Matteo Ruggeri,,22,Italy,,€20.00m
-t724,Ander Barrenetxea,,23,Spain,,€20.00m
-t725,Toti,,26,Portugal,,€20.00m
-t726,Raheem Sterling,,30,England,,€22.00m
-t727,Antoine Griezmann,,33,France,,€22.00m
-t728,Nico Paz,,20,Argentina,,€20.00m
-t729,Vitor Roque,,19,Brazil,,€20.00m
-t730,Patrick Dorgu,,20,Denmark,,€20.00m
-t731,Jeanuël Belocian,,19,France,,€20.00m
-t732,Lamine Camara,,21,Senegal,,€20.00m
-t733,Habib Diarra,,21,Senegal,,€20.00m
-t734,Alex Scott,,21,England,,€20.00m
-t735,Javi Guerra,,21,Spain,,€20.00m
-t736,Ange-Yoan Bonny,,21,France,,€20.00m
-t737,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t738,Vanderson,,23,Brazil,,€20.00m
-t739,Rodrigo Muniz,,23,Brazil,,€20.00m
-t740,Jacob Greaves,,24,England,,€20.00m
-t741,Johnny Cardoso,,23,United States,,€20.00m
-t742,Marcos Leonardo,,21,Brazil,,€20.00m
-t743,Orri Óskarsson,,20,Iceland,,€20.00m
-t744,El Bilal Touré,,23,Mali,,€20.00m
-t745,Keane Lewis-Potter,,23,England,,€20.00m
-t746,Beñat Prados,,24,Spain,,€20.00m
-t747,Conor Bradley,,21,Northern Ireland,,€20.00m
-t748,Matteo Ruggeri,,22,Italy,,€20.00m
-t749,Ander Barrenetxea,,23,Spain,,€20.00m
-t750,Toti,,26,Portugal,,€20.00m
-t751,Raheem Sterling,,30,England,,€22.00m
-t752,Antoine Griezmann,,33,France,,€22.00m
-t753,Nico Paz,,20,Argentina,,€20.00m
-t754,Vitor Roque,,19,Brazil,,€20.00m
-t755,Patrick Dorgu,,20,Denmark,,€20.00m
-t756,Jeanuël Belocian,,19,France,,€20.00m
-t757,Lamine Camara,,21,Senegal,,€20.00m
-t758,Habib Diarra,,21,Senegal,,€20.00m
-t759,Alex Scott,,21,England,,€20.00m
-t760,Javi Guerra,,21,Spain,,€20.00m
-t761,Ange-Yoan Bonny,,21,France,,€20.00m
-t762,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t763,Vanderson,,23,Brazil,,€20.00m
-t764,Rodrigo Muniz,,23,Brazil,,€20.00m
-t765,Jacob Greaves,,24,England,,€20.00m
-t766,Johnny Cardoso,,23,United States,,€20.00m
-t767,Marcos Leonardo,,21,Brazil,,€20.00m
-t768,Orri Óskarsson,,20,Iceland,,€20.00m
-t769,El Bilal Touré,,23,Mali,,€20.00m
-t770,Keane Lewis-Potter,,23,England,,€20.00m
-t771,Beñat Prados,,24,Spain,,€20.00m
-t772,Conor Bradley,,21,Northern Ireland,,€20.00m
-t773,Matteo Ruggeri,,22,Italy,,€20.00m
-t774,Ander Barrenetxea,,23,Spain,,€20.00m
-t775,Toti,,26,Portugal,,€20.00m
-t776,Raheem Sterling,,30,England,,€22.00m
-t777,Antoine Griezmann,,33,France,,€22.00m
-t778,Nico Paz,,20,Argentina,,€20.00m
-t779,Vitor Roque,,19,Brazil,,€20.00m
-t780,Patrick Dorgu,,20,Denmark,,€20.00m
-t781,Jeanuël Belocian,,19,France,,€20.00m
-t782,Lamine Camara,,21,Senegal,,€20.00m
-t783,Habib Diarra,,21,Senegal,,€20.00m
-t784,Alex Scott,,21,England,,€20.00m
-t785,Javi Guerra,,21,Spain,,€20.00m
-t786,Ange-Yoan Bonny,,21,France,,€20.00m
-t787,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t788,Vanderson,,23,Brazil,,€20.00m
-t789,Rodrigo Muniz,,23,Brazil,,€20.00m
-t790,Jacob Greaves,,24,England,,€20.00m
-t791,Johnny Cardoso,,23,United States,,€20.00m
-t792,Marcos Leonardo,,21,Brazil,,€20.00m
-t793,Orri Óskarsson,,20,Iceland,,€20.00m
-t794,El Bilal Touré,,23,Mali,,€20.00m
-t795,Keane Lewis-Potter,,23,England,,€20.00m
-t796,Beñat Prados,,24,Spain,,€20.00m
-t797,Conor Bradley,,21,Northern Ireland,,€20.00m
-t798,Matteo Ruggeri,,22,Italy,,€20.00m
-t799,Ander Barrenetxea,,23,Spain,,€20.00m
-t800,Toti,,26,Portugal,,€20.00m
-t801,Raheem Sterling,,30,England,,€22.00m
-t802,Antoine Griezmann,,33,France,,€22.00m
-t803,Nico Paz,,20,Argentina,,€20.00m
-t804,Vitor Roque,,19,Brazil,,€20.00m
-t805,Patrick Dorgu,,20,Denmark,,€20.00m
-t806,Jeanuël Belocian,,19,France,,€20.00m
-t807,Lamine Camara,,21,Senegal,,€20.00m
-t808,Habib Diarra,,21,Senegal,,€20.00m
-t809,Alex Scott,,21,England,,€20.00m
-t810,Javi Guerra,,21,Spain,,€20.00m
-t811,Ange-Yoan Bonny,,21,France,,€20.00m
-t812,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t813,Vanderson,,23,Brazil,,€20.00m
-t814,Rodrigo Muniz,,23,Brazil,,€20.00m
-t815,Jacob Greaves,,24,England,,€20.00m
-t816,Johnny Cardoso,,23,United States,,€20.00m
-t817,Marcos Leonardo,,21,Brazil,,€20.00m
-t818,Orri Óskarsson,,20,Iceland,,€20.00m
-t819,El Bilal Touré,,23,Mali,,€20.00m
-t820,Keane Lewis-Potter,,23,England,,€20.00m
-t821,Beñat Prados,,24,Spain,,€20.00m
-t822,Conor Bradley,,21,Northern Ireland,,€20.00m
-t823,Matteo Ruggeri,,22,Italy,,€20.00m
-t824,Ander Barrenetxea,,23,Spain,,€20.00m
-t825,Toti,,26,Portugal,,€20.00m
-t826,Raheem Sterling,,30,England,,€22.00m
-t827,Antoine Griezmann,,33,France,,€22.00m
-t828,Nico Paz,,20,Argentina,,€20.00m
-t829,Vitor Roque,,19,Brazil,,€20.00m
-t830,Patrick Dorgu,,20,Denmark,,€20.00m
-t831,Jeanuël Belocian,,19,France,,€20.00m
-t832,Lamine Camara,,21,Senegal,,€20.00m
-t833,Habib Diarra,,21,Senegal,,€20.00m
-t834,Alex Scott,,21,England,,€20.00m
-t835,Javi Guerra,,21,Spain,,€20.00m
-t836,Ange-Yoan Bonny,,21,France,,€20.00m
-t837,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t838,Vanderson,,23,Brazil,,€20.00m
-t839,Rodrigo Muniz,,23,Brazil,,€20.00m
-t840,Jacob Greaves,,24,England,,€20.00m
-t841,Johnny Cardoso,,23,United States,,€20.00m
-t842,Marcos Leonardo,,21,Brazil,,€20.00m
-t843,Orri Óskarsson,,20,Iceland,,€20.00m
-t844,El Bilal Touré,,23,Mali,,€20.00m
-t845,Keane Lewis-Potter,,23,England,,€20.00m
-t846,Beñat Prados,,24,Spain,,€20.00m
-t847,Conor Bradley,,21,Northern Ireland,,€20.00m
-t848,Matteo Ruggeri,,22,Italy,,€20.00m
-t849,Ander Barrenetxea,,23,Spain,,€20.00m
-t850,Toti,,26,Portugal,,€20.00m
-t851,Raheem Sterling,,30,England,,€22.00m
-t852,Antoine Griezmann,,33,France,,€22.00m
-t853,Nico Paz,,20,Argentina,,€20.00m
-t854,Vitor Roque,,19,Brazil,,€20.00m
-t855,Patrick Dorgu,,20,Denmark,,€20.00m
-t856,Jeanuël Belocian,,19,France,,€20.00m
-t857,Lamine Camara,,21,Senegal,,€20.00m
-t858,Habib Diarra,,21,Senegal,,€20.00m
-t859,Alex Scott,,21,England,,€20.00m
-t860,Javi Guerra,,21,Spain,,€20.00m
-t861,Ange-Yoan Bonny,,21,France,,€20.00m
-t862,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t863,Vanderson,,23,Brazil,,€20.00m
-t864,Rodrigo Muniz,,23,Brazil,,€20.00m
-t865,Jacob Greaves,,24,England,,€20.00m
-t866,Johnny Cardoso,,23,United States,,€20.00m
-t867,Marcos Leonardo,,21,Brazil,,€20.00m
-t868,Orri Óskarsson,,20,Iceland,,€20.00m
-t869,El Bilal Touré,,23,Mali,,€20.00m
-t870,Keane Lewis-Potter,,23,England,,€20.00m
-t871,Beñat Prados,,24,Spain,,€20.00m
-t872,Conor Bradley,,21,Northern Ireland,,€20.00m
-t873,Matteo Ruggeri,,22,Italy,,€20.00m
-t874,Ander Barrenetxea,,23,Spain,,€20.00m
-t875,Toti,,26,Portugal,,€20.00m
-t876,Raheem Sterling,,30,England,,€22.00m
-t877,Antoine Griezmann,,33,France,,€22.00m
-t878,Nico Paz,,20,Argentina,,€20.00m
-t879,Vitor Roque,,19,Brazil,,€20.00m
-t880,Patrick Dorgu,,20,Denmark,,€20.00m
-t881,Jeanuël Belocian,,19,France,,€20.00m
-t882,Lamine Camara,,21,Senegal,,€20.00m
-t883,Habib Diarra,,21,Senegal,,€20.00m
-t884,Alex Scott,,21,England,,€20.00m
-t885,Javi Guerra,,21,Spain,,€20.00m
-t886,Ange-Yoan Bonny,,21,France,,€20.00m
-t887,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t888,Vanderson,,23,Brazil,,€20.00m
-t889,Rodrigo Muniz,,23,Brazil,,€20.00m
-t890,Jacob Greaves,,24,England,,€20.00m
-t891,Johnny Cardoso,,23,United States,,€20.00m
-t892,Marcos Leonardo,,21,Brazil,,€20.00m
-t893,Orri Óskarsson,,20,Iceland,,€20.00m
-t894,El Bilal Touré,,23,Mali,,€20.00m
-t895,Keane Lewis-Potter,,23,England,,€20.00m
-t896,Beñat Prados,,24,Spain,,€20.00m
-t897,Conor Bradley,,21,Northern Ireland,,€20.00m
-t898,Matteo Ruggeri,,22,Italy,,€20.00m
-t899,Ander Barrenetxea,,23,Spain,,€20.00m
-t900,Toti,,26,Portugal,,€20.00m
-t901,Raheem Sterling,,30,England,,€22.00m
-t902,Antoine Griezmann,,33,France,,€22.00m
-t903,Nico Paz,,20,Argentina,,€20.00m
-t904,Vitor Roque,,19,Brazil,,€20.00m
-t905,Patrick Dorgu,,20,Denmark,,€20.00m
-t906,Jeanuël Belocian,,19,France,,€20.00m
-t907,Lamine Camara,,21,Senegal,,€20.00m
-t908,Habib Diarra,,21,Senegal,,€20.00m
-t909,Alex Scott,,21,England,,€20.00m
-t910,Javi Guerra,,21,Spain,,€20.00m
-t911,Ange-Yoan Bonny,,21,France,,€20.00m
-t912,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t913,Vanderson,,23,Brazil,,€20.00m
-t914,Rodrigo Muniz,,23,Brazil,,€20.00m
-t915,Jacob Greaves,,24,England,,€20.00m
-t916,Johnny Cardoso,,23,United States,,€20.00m
-t917,Marcos Leonardo,,21,Brazil,,€20.00m
-t918,Orri Óskarsson,,20,Iceland,,€20.00m
-t919,El Bilal Touré,,23,Mali,,€20.00m
-t920,Keane Lewis-Potter,,23,England,,€20.00m
-t921,Beñat Prados,,24,Spain,,€20.00m
-t922,Conor Bradley,,21,Northern Ireland,,€20.00m
-t923,Matteo Ruggeri,,22,Italy,,€20.00m
-t924,Ander Barrenetxea,,23,Spain,,€20.00m
-t925,Toti,,26,Portugal,,€20.00m
-t926,Raheem Sterling,,30,England,,€22.00m
-t927,Antoine Griezmann,,33,France,,€22.00m
-t928,Nico Paz,,20,Argentina,,€20.00m
-t929,Vitor Roque,,19,Brazil,,€20.00m
-t930,Patrick Dorgu,,20,Denmark,,€20.00m
-t931,Jeanuël Belocian,,19,France,,€20.00m
-t932,Lamine Camara,,21,Senegal,,€20.00m
-t933,Habib Diarra,,21,Senegal,,€20.00m
-t934,Alex Scott,,21,England,,€20.00m
-t935,Javi Guerra,,21,Spain,,€20.00m
-t936,Ange-Yoan Bonny,,21,France,,€20.00m
-t937,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t938,Vanderson,,23,Brazil,,€20.00m
-t939,Rodrigo Muniz,,23,Brazil,,€20.00m
-t940,Jacob Greaves,,24,England,,€20.00m
-t941,Johnny Cardoso,,23,United States,,€20.00m
-t942,Marcos Leonardo,,21,Brazil,,€20.00m
-t943,Orri Óskarsson,,20,Iceland,,€20.00m
-t944,El Bilal Touré,,23,Mali,,€20.00m
-t945,Keane Lewis-Potter,,23,England,,€20.00m
-t946,Beñat Prados,,24,Spain,,€20.00m
-t947,Conor Bradley,,21,Northern Ireland,,€20.00m
-t948,Matteo Ruggeri,,22,Italy,,€20.00m
-t949,Ander Barrenetxea,,23,Spain,,€20.00m
-t950,Toti,,26,Portugal,,€20.00m
-t951,Raheem Sterling,,30,England,,€22.00m
-t952,Antoine Griezmann,,33,France,,€22.00m
-t953,Nico Paz,,20,Argentina,,€20.00m
-t954,Vitor Roque,,19,Brazil,,€20.00m
-t955,Patrick Dorgu,,20,Denmark,,€20.00m
-t956,Jeanuël Belocian,,19,France,,€20.00m
-t957,Lamine Camara,,21,Senegal,,€20.00m
-t958,Habib Diarra,,21,Senegal,,€20.00m
-t959,Alex Scott,,21,England,,€20.00m
-t960,Javi Guerra,,21,Spain,,€20.00m
-t961,Ange-Yoan Bonny,,21,France,,€20.00m
-t962,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t963,Vanderson,,23,Brazil,,€20.00m
-t964,Rodrigo Muniz,,23,Brazil,,€20.00m
-t965,Jacob Greaves,,24,England,,€20.00m
-t966,Johnny Cardoso,,23,United States,,€20.00m
-t967,Marcos Leonardo,,21,Brazil,,€20.00m
-t968,Orri Óskarsson,,20,Iceland,,€20.00m
-t969,El Bilal Touré,,23,Mali,,€20.00m
-t970,Keane Lewis-Potter,,23,England,,€20.00m
-t971,Beñat Prados,,24,Spain,,€20.00m
-t972,Conor Bradley,,21,Northern Ireland,,€20.00m
-t973,Matteo Ruggeri,,22,Italy,,€20.00m
-t974,Ander Barrenetxea,,23,Spain,,€20.00m
-t975,Toti,,26,Portugal,,€20.00m
-t976,Raheem Sterling,,30,England,,€22.00m
-t977,Antoine Griezmann,,33,France,,€22.00m
-t978,Nico Paz,,20,Argentina,,€20.00m
-t979,Vitor Roque,,19,Brazil,,€20.00m
-t980,Patrick Dorgu,,20,Denmark,,€20.00m
-t981,Jeanuël Belocian,,19,France,,€20.00m
-t982,Lamine Camara,,21,Senegal,,€20.00m
-t983,Habib Diarra,,21,Senegal,,€20.00m
-t984,Alex Scott,,21,England,,€20.00m
-t985,Javi Guerra,,21,Spain,,€20.00m
-t986,Ange-Yoan Bonny,,21,France,,€20.00m
-t987,Dango Ouattara,,23,Burkina Faso,,€20.00m
-t988,Vanderson,,23,Brazil,,€20.00m
-t989,Rodrigo Muniz,,23,Brazil,,€20.00m
-t990,Jacob Greaves,,24,England,,€20.00m
-t991,Johnny Cardoso,,23,United States,,€20.00m
-t992,Marcos Leonardo,,21,Brazil,,€20.00m
-t993,Orri Óskarsson,,20,Iceland,,€20.00m
-t994,El Bilal Touré,,23,Mali,,€20.00m
-t995,Keane Lewis-Potter,,23,England,,€20.00m
-t996,Beñat Prados,,24,Spain,,€20.00m
-t997,Conor Bradley,,21,Northern Ireland,,€20.00m
-t998,Matteo Ruggeri,,22,Italy,,€20.00m
-t999,Ander Barrenetxea,,23,Spain,,€20.00m
-t1000,Toti,,26,Portugal,,€20.00m
+ID,name,position,age,nationality,market_value
+t1,Erling Haaland,Centre-Forward,24,Norway,€200.00m
+t2,Vinicius Junior,Left Winger,24,Brazil,€200.00m
+t3,Lamine Yamal,Right Winger,17,Spain,€180.00m
+t4,Jude Bellingham,Attacking Midfield,21,England,€180.00m
+t5,Kylian Mbappé,Centre-Forward,26,France,€160.00m
+t6,Bukayo Saka,Right Winger,23,England,€150.00m
+t7,Florian Wirtz,Attacking Midfield,21,Germany,€140.00m
+t8,Jamal Musiala,Attacking Midfield,22,Germany,€140.00m
+t9,Phil Foden,Right Winger,24,England,€140.00m
+t10,Cole Palmer,Attacking Midfield,22,England,€130.00m
+t11,Federico Valverde,Central Midfield,26,Uruguay,€130.00m
+t12,Rodri,Defensive Midfield,28,Spain,€130.00m
+t13,Declan Rice,Central Midfield,26,England,€110.00m
+t14,Martin Ødegaard,Attacking Midfield,26,Norway,€110.00m
+t15,Pedri,Central Midfield,22,Spain,€100.00m
+t16,Rodrygo,Right Winger,24,Brazil,€100.00m
+t17,Lautaro Martínez,Centre-Forward,27,Argentina,€100.00m
+t18,Harry Kane,Centre-Forward,31,England,€90.00m
+t19,Khvicha Kvaratskhelia,Left Winger,24,Georgia,€85.00m
+t20,Luis Díaz,Left Winger,28,Colombia,€85.00m
+t21,Moisés Caicedo,Defensive Midfield,23,Ecuador,€80.00m
+t22,Gavi,Central Midfield,20,Spain,€80.00m
+t23,Eduardo Camavinga,Central Midfield,22,France,€80.00m
+t24,Julián Alvarez,Centre-Forward,25,Argentina,€80.00m
+t25,Xavi Simons,Attacking Midfield,21,Netherlands,€80.00m
+t26,Alexis Mac Allister,Central Midfield,26,Argentina,€80.00m
+t27,Bruno Guimarães,Defensive Midfield,27,Brazil,€80.00m
+t28,William Saliba,Centre-Back,23,France,€80.00m
+t29,Aurélien Tchouaméni,Defensive Midfield,25,France,€80.00m
+t30,Raphinha,Left Winger,28,Brazil,€80.00m
+t31,Nicolò Barella,Central Midfield,28,Italy,€80.00m
+t32,Enzo Fernández,Central Midfield,24,Argentina,€75.00m
+t33,Josko Gvardiol,Left-Back,23,Croatia,€75.00m
+t34,Dominik Szoboszlai,Central Midfield,24,Hungary,€75.00m
+t35,Gabriel Magalhães,Centre-Back,27,Brazil,€75.00m
+t36,Victor Osimhen,Centre-Forward,26,Nigeria,€75.00m
+t37,Rafael Leão,Left Winger,25,Portugal,€75.00m
+t38,Alexander Isak,Centre-Forward,25,Sweden,€75.00m
+t39,Viktor Gyökeres,Centre-Forward,26,Sweden,€75.00m
+t40,Marcus Thuram,Centre-Forward,27,France,€75.00m
+t41,Alessandro Bastoni,Centre-Back,25,Italy,€75.00m
+t42,Trent Alexander-Arnold,Right-Back,26,England,€75.00m
+t43,Kai Havertz,Centre-Forward,25,Germany,€75.00m
+t44,Rúben Dias,Centre-Back,27,Portugal,€75.00m
+t45,Pau Cubarsí,Centre-Back,18,Spain,€70.00m
+t46,Nico Williams,Left Winger,22,Spain,€70.00m
+t47,Bradley Barcola,Left Winger,22,France,€65.00m
+t48,Michael Olise,Right Winger,23,France,€65.00m
+t49,Darwin Núñez,Centre-Forward,25,Uruguay,€65.00m
+t50,Cristian Romero,Centre-Back,26,Argentina,€65.00m
+t51,Warren Zaïre-Emery,Central Midfield,18,France,€60.00m
+t52,João Neves,Defensive Midfield,20,Portugal,€60.00m
+t53,Rasmus Højlund,Centre-Forward,22,Denmark,€60.00m
+t54,Bremer,Centre-Back,27,Brazil,€60.00m
+t55,Anthony Gordon,Left Winger,24,England,€60.00m
+t56,Jérémy Doku,Left Winger,22,Belgium,€60.00m
+t57,Omar Marmoush,Centre-Forward,26,Egypt,€60.00m
+t58,Cody Gakpo,Left Winger,25,Netherlands,€60.00m
+t59,Dejan Kulusevski,Attacking Midfield,24,Sweden,€60.00m
+t60,Martín Zubimendi,Defensive Midfield,26,Spain,€60.00m
+t61,Jules Koundé,Right-Back,26,France,€60.00m
+t62,Achraf Hakimi,Right-Back,26,Morocco,€60.00m
+t63,Loïs Openda,Centre-Forward,25,Belgium,€60.00m
+t64,Dušan Vlahović,Centre-Forward,25,Serbia,€60.00m
+t65,James Maddison,Attacking Midfield,28,England,€60.00m
+t66,Dani Olmo,Attacking Midfield,26,Spain,€60.00m
+t67,Bernardo Silva,Attacking Midfield,30,Portugal,€60.00m
+t68,Federico Dimarco,Left-Back,27,Italy,€60.00m
+t69,Leny Yoro,Centre-Back,19,France,€55.00m
+t70,Kobbie Mainoo,Central Midfield,19,England,€55.00m
+t71,Nicolas Jackson,Centre-Forward,23,Senegal,€55.00m
+t72,Savinho,Right Winger,20,Brazil,€55.00m
+t73,Gabriel Martinelli,Left Winger,23,Brazil,€55.00m
+t74,Nuno Mendes,Left-Back,22,Portugal,€55.00m
+t75,Levi Colwill,Centre-Back,22,England,€55.00m
+t76,Micky van de Ven,Centre-Back,23,Netherlands,€55.00m
+t77,Vitinha,Central Midfield,25,Portugal,€55.00m
+t78,Pedro Neto,Right Winger,24,Portugal,€55.00m
+t79,Amadou Onana,Defensive Midfield,23,Belgium,€55.00m
+t80,Ronald Araujo,Centre-Back,25,Uruguay,€55.00m
+t81,Eberechi Eze,Attacking Midfield,26,England,€55.00m
+t82,Ryan Gravenberch,Defensive Midfield,22,Netherlands,€55.00m
+t83,Ademola Lookman,Second Striker,27,Nigeria,€55.00m
+t84,Ben White,Right-Back,27,England,€55.00m
+t85,Ollie Watkins,Centre-Forward,29,England,€55.00m
+t86,Ousmane Dembélé,Right Winger,27,France,€55.00m
+t87,Marcus Rashford,Left Winger,27,England,€55.00m
+t88,Bruno Fernandes,Attacking Midfield,30,Portugal,€55.00m
+t89,Mohamed Salah,Right Winger,32,Egypt,€55.00m
+t90,Estêvão,Right Winger,17,Brazil,€50.00m
+t91,Murillo,Centre-Back,22,Brazil,€50.00m
+t92,Samu Aghehowa,Centre-Forward,20,Spain,€50.00m
+t93,Alejandro Garnacho,Left Winger,20,Argentina,€50.00m
+t94,Aleksandar Pavlovic,Defensive Midfield,20,Germany,€50.00m
+t95,Pablo Barrios,Central Midfield,21,Spain,€50.00m
+t96,Jamie Gittens,Left Winger,20,England,€50.00m
+t97,Fermín López,Central Midfield,21,Spain,€50.00m
+t98,Alejandro Balde,Left-Back,21,Spain,€50.00m
+t99,Benjamin Sesko,Centre-Forward,21,Slovenia,€50.00m
+t100,João Pedro,Centre-Forward,23,Brazil,€50.00m
+t101,Castello Lukeba,Centre-Back,22,France,€50.00m
+t102,Éderson,Central Midfield,25,Brazil,€50.00m
+t103,Oihan Sancet,Attacking Midfield,24,Spain,€50.00m
+t104,Gonçalo Ramos,Centre-Forward,23,Portugal,€50.00m
+t105,Álex Baena,Left Winger,23,Spain,€50.00m
+t106,Mohammed Kudus,Right Winger,24,Ghana,€50.00m
+t107,Matheus Cunha,Centre-Forward,25,Brazil,€50.00m
+t108,Jeremie Frimpong,Right Midfield,24,Netherlands,€50.00m
+t109,Lisandro Martínez,Centre-Back,27,Argentina,€50.00m
+t110,Manuel Ugarte,Defensive Midfield,23,Uruguay,€50.00m
+t111,Brennan Johnson,Right Winger,23,Wales,€50.00m
+t112,Tijjani Reijnders,Central Midfield,26,Netherlands,€50.00m
+t113,Alphonso Davies,Left-Back,24,Canada,€50.00m
+t114,Bryan Mbeumo,Right Winger,25,Cameroon,€50.00m
+t115,Teun Koopmeiners,Attacking Midfield,27,Netherlands,€50.00m
+t116,Ibrahima Konaté,Centre-Back,25,France,€50.00m
+t117,Dayot Upamecano,Centre-Back,26,France,€50.00m
+t118,Christopher Nkunku,Centre-Forward,27,France,€50.00m
+t119,Diogo Jota,Centre-Forward,28,Portugal,€50.00m
+t120,Theo Hernández,Left-Back,27,France,€50.00m
+t121,Christian Pulisic,Right Winger,26,United States,€50.00m
+t122,Joshua Kimmich,Defensive Midfield,30,Germany,€50.00m
+t123,Arda Güler,Right Winger,20,Türkiye,€45.00m
+t124,Kenan Yıldız,Left Winger,19,Türkiye,€45.00m
+t125,Victor Boniface,Centre-Forward,24,Nigeria,€45.00m
+t126,Giorgio Scalvini,Centre-Back,21,Italy,€45.00m
+t127,Pape Matar Sarr,Central Midfield,22,Senegal,€45.00m
+t128,Destiny Udogie,Left-Back,22,Italy,€45.00m
+t129,Pedro Porro,Right-Back,25,Spain,€45.00m
+t130,Gonçalo Inácio,Centre-Back,23,Portugal,€45.00m
+t131,Jonathan David,Centre-Forward,25,Canada,€45.00m
+t132,Kaoru Mitoma,Left Winger,27,Japan,€45.00m
+t133,Min-jae Kim,Centre-Back,28,"Korea, South",€45.00m
+t134,Riccardo Calafiori,Left-Back,22,Italy,€45.00m
+t135,Morten Hjulmand,Defensive Midfield,25,Denmark,€45.00m
+t136,Douglas Luiz,Central Midfield,26,Brazil,€45.00m
+t137,Curtis Jones,Central Midfield,24,England,€45.00m
+t138,Jurrien Timber,Right-Back,23,Netherlands,€45.00m
+t139,Pau Torres,Centre-Back,28,Spain,€45.00m
+t140,Marc Guéhi,Centre-Back,24,England,€45.00m
+t141,Alessandro Buongiorno,Centre-Back,25,Italy,€45.00m
+t142,Gabriel Jesus,Centre-Forward,27,Brazil,€45.00m
+t143,Sven Botman,Centre-Back,25,Netherlands,€45.00m
+t144,Mikel Merino,Central Midfield,28,Spain,€45.00m
+t145,Frenkie de Jong,Central Midfield,27,Netherlands,€45.00m
+t146,Matthijs de Ligt,Centre-Back,25,Netherlands,€45.00m
+t147,Jarrod Bowen,Right Winger,28,England,€45.00m
+t148,Dominic Solanke,Centre-Forward,27,England,€45.00m
+t149,Jack Grealish,Left Winger,29,England,€45.00m
+t150,Leroy Sané,Right Winger,29,Germany,€45.00m
+t151,Jarrad Branthwaite,Centre-Back,22,England,€42.00m
+t152,Enzo Millot,Attacking Midfield,22,France,€42.00m
+t153,Joshua Zirkzee,Centre-Forward,23,Netherlands,€42.00m
+t154,Ousmane Diomande,Centre-Back,21,Cote d'Ivoire,€40.00m
+t155,Endrick,Centre-Forward,18,Brazil,€40.00m
+t156,Désiré Doué,Left Winger,19,France,€40.00m
+t157,Maghnes Akliouche,Right Winger,23,France,€40.00m
+t158,João Gomes,Central Midfield,24,Brazil,€40.00m
+t159,Hugo Ekitiké,Centre-Forward,22,France,€40.00m
+t160,Rico Lewis,Right-Back,20,England,€40.00m
+t161,Willian Pacho,Centre-Back,23,Ecuador,€40.00m
+t162,Piero Hincapié,Centre-Back,23,Ecuador,€40.00m
+t163,Jhon Durán,Centre-Forward,21,Colombia,€40.00m
+t164,Evan Ferguson,Centre-Forward,20,Ireland,€40.00m
+t165,Roméo Lavia,Defensive Midfield,21,Belgium,€40.00m
+t166,Matheus Nunes,Central Midfield,26,Portugal,€40.00m
+t167,Johan Bakayoko,Right Winger,21,Belgium,€40.00m
+t168,Edmond Tapsoba,Centre-Back,26,Burkina Faso,€40.00m
+t169,Dani Vivian,Centre-Back,25,Spain,€40.00m
+t170,Noni Madueke,Right Winger,22,England,€40.00m
+t171,Morgan Rogers,Attacking Midfield,22,England,€40.00m
+t172,Giorgi Mamardashvili,Goalkeeper,24,Georgia,€40.00m
+t173,Conor Gallagher,Central Midfield,25,England,€40.00m
+t174,Andrea Cambiaso,Left-Back,25,Italy,€40.00m
+t175,Lucas Paquetá,Attacking Midfield,27,Brazil,€40.00m
+t176,Morgan Gibbs-White,Attacking Midfield,25,England,€40.00m
+t177,Takefusa Kubo,Right Winger,23,Japan,€40.00m
+t178,Exequiel Palacios,Central Midfield,26,Argentina,€40.00m
+t179,Éder Militão,Centre-Back,27,Brazil,€40.00m
+t180,Nico Schlotterbeck,Centre-Back,25,Germany,€40.00m
+t181,Diogo Costa,Goalkeeper,25,Portugal,€40.00m
+t182,Diogo Dalot,Right-Back,25,Portugal,€40.00m
+t183,Benjamin Pavard,Centre-Back,28,France,€40.00m
+t184,Robin Le Normand,Centre-Back,28,Spain,€40.00m
+t185,Joelinton,Central Midfield,28,Brazil,€40.00m
+t186,Scott McTominay,Central Midfield,28,Scotland,€40.00m
+t187,Manuel Akanji,Centre-Back,29,Switzerland,€40.00m
+t188,Serhou Guirassy,Centre-Forward,28,Guinea,€40.00m
+t189,David Raya,Goalkeeper,29,Spain,€40.00m
+t190,Gregor Kobel,Goalkeeper,27,Switzerland,€40.00m
+t191,João Palhinha,Defensive Midfield,29,Portugal,€40.00m
+t192,Alejandro Grimaldo,Left-Back,29,Spain,€40.00m
+t193,Marquinhos,Centre-Back,30,Brazil,€40.00m
+t194,Hakan Çalhanoğlu,Defensive Midfield,31,Türkiye,€40.00m
+t195,Ilya Zabarnyi,Centre-Back,22,Ukraine,€38.00m
+t196,António Silva,Centre-Back,21,Portugal,€38.00m
+t197,Charles De Ketelaere,Attacking Midfield,23,Belgium,€38.00m
+t198,Sandro Tonali,Central Midfield,24,Italy,€38.00m
+t199,Boubacar Kamara,Defensive Midfield,25,France,€38.00m
+t200,Leon Bailey,Right Winger,27,Jamaica,€38.00m
+t201,Heung-min Son,Left Winger,32,"Korea, South",€38.00m
+t202,Santiago Gimenez,Centre-Forward,23,Mexico,€37.00m
+t203,Francisco Conceição,Right Winger,22,Portugal,€36.00m
+t204,Carlos Baleba,Defensive Midfield,21,Cameroon,€35.00m
+t205,Hugo Larsson,Central Midfield,20,Sweden,€35.00m
+t206,Alan Varela,Defensive Midfield,23,Argentina,€35.00m
+t207,Evanilson,Centre-Forward,25,Brazil,€35.00m
+t208,Malo Gusto,Right-Back,21,France,€35.00m
+t209,Rayan Aït-Nouri,Left-Back,23,Algeria,€35.00m
+t210,Harvey Elliott,Central Midfield,21,England,€35.00m
+t211,Mateo Retegui,Centre-Forward,25,Italy,€35.00m
+t212,Cheick Doucouré,Defensive Midfield,25,Mali,€35.00m
+t213,Mason Greenwood,Right Winger,23,England,€35.00m
+t214,Maximilian Kilman,Centre-Back,27,England,€35.00m
+t215,Tino Livramento,Right-Back,22,England,€35.00m
+t216,Karim Adeyemi,Right Winger,23,Germany,€35.00m
+t217,Nico González,Right Winger,26,Argentina,€35.00m
+t218,Khéphren Thuram,Central Midfield,23,France,€35.00m
+t219,Ezri Konsa,Centre-Back,27,England,€35.00m
+t220,Yves Bissouma,Defensive Midfield,28,Mali,€35.00m
+t221,Dávid Hancko,Centre-Back,27,Slovakia,€35.00m
+t222,Harvey Barnes,Left Winger,27,England,€35.00m
+t223,Moussa Diaby,Right Winger,25,France,€35.00m
+t224,Nayef Aguerd,Centre-Back,28,Morocco,€35.00m
+t225,Rodrigo Bentancur,Defensive Midfield,27,Uruguay,€35.00m
+t226,Mikel Oyarzabal,Centre-Forward,27,Spain,€35.00m
+t227,Fabián Ruiz,Central Midfield,28,Spain,€35.00m
+t228,Gianluigi Donnarumma,Goalkeeper,26,Italy,€35.00m
+t229,Brahim Díaz,Right Winger,25,Morocco,€35.00m
+t230,Brais Méndez,Attacking Midfield,28,Spain,€35.00m
+t231,Guglielmo Vicario,Goalkeeper,28,Italy,€35.00m
+t232,Kingsley Coman,Left Winger,28,France,€35.00m
+t233,André Onana,Goalkeeper,28,Cameroon,€35.00m
+t234,Julian Brandt,Attacking Midfield,28,Germany,€35.00m
+t235,Mike Maignan,Goalkeeper,29,France,€35.00m
+t236,Nathan Aké,Centre-Back,30,Netherlands,€35.00m
+t237,Serge Gnabry,Left Winger,29,Germany,€35.00m
+t238,Kevin De Bruyne,Attacking Midfield,33,Belgium,€35.00m
+t239,Adam Wharton,Defensive Midfield,21,England,€32.00m
+t240,Georgiy Sudakov,Attacking Midfield,22,Ukraine,€32.00m
+t241,Jean-Clair Todibo,Centre-Back,25,France,€32.00m
+t242,Jan Paul van Hecke,Centre-Back,24,Netherlands,€32.00m
+t243,Georginio Rutter,Centre-Forward,22,France,€32.00m
+t244,Jacob Ramsey,Left Midfield,23,England,€32.00m
+t245,Ian Maatsen,Left-Back,22,Netherlands,€32.00m
+t246,Mattéo Guendouzi,Central Midfield,25,France,€32.00m
+t247,Angelo Stiller,Defensive Midfield,23,Germany,€32.00m
+t248,Pedro Gonçalves,Left Winger,26,Portugal,€32.00m
+t249,Quinten Timber,Central Midfield,23,Netherlands,€32.00m
+t250,Lutsharel Geertruida,Right-Back,24,Netherlands,€32.00m
+t251,Joey Veerman,Central Midfield,26,Netherlands,€32.00m
+t252,Davide Frattesi,Central Midfield,25,Italy,€32.00m
+t253,Emile Smith Rowe,Attacking Midfield,24,England,€32.00m
+t254,Jerdy Schouten,Defensive Midfield,28,Netherlands,€32.00m
+t255,Mason Mount,Attacking Midfield,26,England,€32.00m
+t256,Noussair Mazraoui,Right-Back,27,Morocco,€32.00m
+t257,Takehiro Tomiyasu,Right-Back,26,Japan,€32.00m
+t258,Lucas Hernández,Left-Back,29,France,€32.00m
+t259,Joachim Andersen,Centre-Back,28,Denmark,€32.00m
+t260,John Stones,Centre-Back,30,England,€32.00m
+t261,Geovany Quenda,Right Winger,17,Portugal,€30.00m
+t262,Jorrel Hato,Left-Back,18,Netherlands,€30.00m
+t263,Ethan Nwaneri,Attacking Midfield,17,England,€30.00m
+t264,Lucas Beraldo,Centre-Back,21,Brazil,€30.00m
+t265,Eliesse Ben Seghir,Left Winger,20,Morocco,€30.00m
+t266,Mathys Tel,Centre-Forward,19,France,€30.00m
+t267,Simon Adingra,Left Winger,23,Cote d'Ivoire,€30.00m
+t268,Bilal El Khannouss,Attacking Midfield,20,Morocco,€30.00m
+t269,Cristhian Mosquera,Centre-Back,20,Spain,€30.00m
+t270,Odilon Kossounou,Centre-Back,24,Cote d'Ivoire,€30.00m
+t271,Marc Casadó,Defensive Midfield,21,Spain,€30.00m
+t272,Rayan Cherki,Attacking Midfield,21,France,€30.00m
+t273,Maximilian Beier,Centre-Forward,22,Germany,€30.00m
+t274,Youssouf Fofana,Defensive Midfield,26,France,€30.00m
+t275,Yéremy Pino,Right Winger,22,Spain,€30.00m
+t276,Kang-in Lee,Right Winger,24,"Korea, South",€30.00m
+t277,Mykhaylo Mudryk,Left Winger,24,Ukraine,€30.00m
+t278,Isak Hien,Centre-Back,26,Sweden,€30.00m
+t279,Randal Kolo Muani,Centre-Forward,26,France,€30.00m
+t280,Wesley Fofana,Centre-Back,24,France,€30.00m
+t281,Brian Brobbey,Centre-Forward,23,Netherlands,€30.00m
+t282,Reece James,Right-Back,25,England,€30.00m
+t283,Malik Tillman,Attacking Midfield,22,United States,€30.00m
+t284,Lucas Chevalier,Goalkeeper,23,France,€30.00m
+t285,João Félix,Second Striker,25,Portugal,€30.00m
+t286,Yann Bisseck,Centre-Back,24,Germany,€30.00m
+t287,Mats Wieffer,Defensive Midfield,25,Netherlands,€30.00m
+t288,Edson Álvarez,Defensive Midfield,27,Mexico,€30.00m
+t289,Jadon Sancho,Left Winger,24,England,€30.00m
+t290,Axel Disasi,Centre-Back,26,France,€30.00m
+t291,Richarlison,Centre-Forward,27,Brazil,€30.00m
+t292,Ferdi Kadıoğlu,Left-Back,25,Türkiye,€30.00m
+t293,Moise Kean,Centre-Forward,25,Italy,€30.00m
+t294,Hiroki Ito,Centre-Back,25,Japan,€30.00m
+t295,Pervis Estupiñán,Left-Back,27,Ecuador,€30.00m
+t296,Artem Dovbyk,Centre-Forward,27,Ukraine,€30.00m
+t297,Denis Zakaria,Defensive Midfield,28,Switzerland,€30.00m
+t298,Gianluca Scamacca,Centre-Forward,26,Italy,€30.00m
+t299,Marc Cucurella,Left-Back,26,Spain,€30.00m
+t300,Aleksandr Golovin,Attacking Midfield,28,Russia,€30.00m
+t301,Youri Tielemans,Central Midfield,27,Belgium,€30.00m
+t302,Ederson,Goalkeeper,31,Brazil,€30.00m
+t303,Oleksandr Zinchenko,Left-Back,28,Ukraine,€30.00m
+t304,Jonathan Tah,Centre-Back,29,Germany,€30.00m
+t305,Leandro Trossard,Left Winger,30,Belgium,€30.00m
+t306,Yankuba Minteh,Right Winger,20,The Gambia,€28.00m
+t307,Antonio Nusa,Left Winger,19,Norway,€28.00m
+t308,Danilo,Defensive Midfield,23,Brazil,€28.00m
+t309,Milos Kerkez,Left-Back,21,Hungary,€28.00m
+t310,Mohamed Simakan,Centre-Back,24,France,€28.00m
+t311,Mario Gila,Centre-Back,24,Spain,€28.00m
+t312,Antoine Semenyo,Right Winger,25,Ghana,€28.00m
+t313,Tomás Araújo,Centre-Back,22,Portugal,€28.00m
+t314,Josip Stanisic,Right-Back,24,Croatia,€28.00m
+t315,Kiernan Dewsbury-Hall,Central Midfield,26,England,€28.00m
+t316,David Neres,Right Winger,28,Brazil,€28.00m
+t317,Nathan Collins,Centre-Back,23,Ireland,€28.00m
+t318,Samuele Ricci,Defensive Midfield,23,Italy,€28.00m
+t319,Benoît Badiashile,Centre-Back,23,France,€28.00m
+t320,Orkun Kökçü,Central Midfield,24,Türkiye,€28.00m
+t321,Jakub Kiwior,Centre-Back,25,Poland,€28.00m
+t322,Matty Cash,Right-Back,27,Poland,€28.00m
+t323,Felix Nmecha,Central Midfield,24,Germany,€28.00m
+t324,Vitaliy Mykolenko,Left-Back,25,Ukraine,€28.00m
+t325,Ferran Torres,Right Winger,25,Spain,€28.00m
+t326,Yoane Wissa,Centre-Forward,28,DR Congo,€28.00m
+t327,Ibrahim Sangaré,Defensive Midfield,27,Cote d'Ivoire,€28.00m
+t328,Antonee Robinson,Left-Back,27,United States,€28.00m
+t329,Joe Willock,Central Midfield,25,England,€28.00m
+t330,Deniz Undav,Centre-Forward,28,Germany,€28.00m
+t331,Ermedin Demirovic,Centre-Forward,26,Bosnia-Herzegovina,€28.00m
+t332,Donyell Malen,Right Winger,26,Netherlands,€28.00m
+t333,Albert Gudmundsson,Second Striker,27,Iceland,€28.00m
+t334,Marcos Llorente,Right Midfield,30,Spain,€28.00m
+t335,Manuel Locatelli,Defensive Midfield,27,Italy,€28.00m
+t336,Unai Simón,Goalkeeper,27,Spain,€28.00m
+t337,Joe Gomez,Centre-Back,27,England,€28.00m
+t338,Ivan Toney,Centre-Forward,28,England,€28.00m
+t339,Rúben Neves,Defensive Midfield,27,Portugal,€28.00m
+t340,Xaver Schlager,Central Midfield,27,Austria,€28.00m
+t341,Stanislav Lobotka,Defensive Midfield,30,Slovakia,€28.00m
+t342,Virgil van Dijk,Centre-Back,33,Netherlands,€28.00m
+t343,Mateo Kovacic,Central Midfield,30,Croatia,€28.00m
+t344,Thiago Almada,Attacking Midfield,23,Argentina,€27.00m
+t345,Pepê,Right Winger,28,Brazil,€27.00m
+t346,Galeno,Left Winger,27,Brazil,€27.00m
+t347,Jørgen Strand Larsen,Centre-Forward,25,Norway,€27.00m
+t348,Trincão,Right Winger,25,Portugal,€27.00m
+t349,Frank Anguissa,Central Midfield,29,Cameroon,€27.00m
+t350,Olivier Boscagli,Centre-Back,27,France,€27.00m
+t351,Manu Koné,Central Midfield,23,France,€26.00m
+t352,Pierre Kalulu,Centre-Back,24,France,€26.00m
+t353,Ayyoub Bouaddi,Central Midfield,17,France,€25.00m
+t354,Arthur Vermeeren,Defensive Midfield,20,Belgium,€25.00m
+t355,Archie Gray,Right-Back,18,England,€25.00m
+t356,Santiago Castro,Centre-Forward,20,Argentina,€25.00m
+t357,André,Defensive Midfield,23,Brazil,€25.00m
+t358,Andrey Santos,Central Midfield,20,Brazil,€25.00m
+t359,Malick Fofana,Left Winger,19,Belgium,€25.00m
+t360,Igor Thiago,Centre-Forward,23,Brazil,€25.00m
+t361,Alberto Moleiro,Attacking Midfield,21,Spain,€25.00m
+t362,Tyrick Mitchell,Left-Back,25,England,€25.00m
+t363,Loïc Badé,Centre-Back,24,France,€25.00m
+t364,Lesley Ugochukwu,Defensive Midfield,20,France,€25.00m
+t365,Brajan Gruda,Right Winger,20,Germany,€25.00m
+t366,Samuel Lino,Left Winger,25,Brazil,€25.00m
+t367,Lewis Hall,Left-Back,20,England,€25.00m
+t368,Oscar Bobb,Right Winger,21,Norway,€25.00m
+t369,Elye Wahi,Centre-Forward,22,France,€25.00m
+t370,Wilfried Singo,Centre-Back,24,Cote d'Ivoire,€25.00m
+t371,Yan Couto,Right-Back,22,Brazil,€25.00m
+t372,Liam Delap,Centre-Forward,22,England,€25.00m
+t373,Leif Davis,Left-Back,25,England,€25.00m
+t374,Dwight McNeil,Attacking Midfield,25,England,€25.00m
+t375,Anthony Elanga,Right Winger,22,Sweden,€25.00m
+t376,Radu Drăgușin,Centre-Back,23,Romania,€25.00m
+t377,Bart Verbruggen,Goalkeeper,22,Netherlands,€25.00m
+t378,Anatoliy Trubin,Goalkeeper,23,Ukraine,€25.00m
+t379,Amad Diallo,Right Winger,22,Cote d'Ivoire,€25.00m
+t380,Nuno Tavares,Left-Back,25,Portugal,€25.00m
+t381,Nicolò Rovella,Defensive Midfield,23,Italy,€25.00m
+t382,Miguel Gutiérrez,Left-Back,23,Spain,€25.00m
+t383,Federico Gatti,Centre-Back,26,Italy,€25.00m
+t384,Taylor Harwood-Bellis,Centre-Back,23,England,€25.00m
+t385,Folarin Balogun,Centre-Forward,23,United States,€25.00m
+t386,Edon Zhegrova,Right Winger,25,Kosovo,€25.00m
+t387,Daniel Muñoz,Right-Back,28,Colombia,€25.00m
+t388,Facundo Medina,Centre-Back,25,Argentina,€25.00m
+t389,Bafodé Diakité,Centre-Back,24,France,€25.00m
+t390,Nahuel Molina,Right-Back,26,Argentina,€25.00m
+t391,Nikola Milenković,Centre-Back,27,Serbia,€25.00m
+t392,Angel Gomes,Attacking Midfield,24,England,€25.00m
+t393,Kerem Aktürkoğlu,Left Winger,26,Türkiye,€25.00m
+t394,Evan Ndicka,Centre-Back,25,Cote d'Ivoire,€25.00m
+t395,Dan Ndoye,Right Winger,24,Switzerland,€25.00m
+t396,Sean Longstaff,Central Midfield,27,England,€25.00m
+t397,Eddie Nketiah,Centre-Forward,25,England,€25.00m
+t398,Jonathan Burkardt,Centre-Forward,24,Germany,€25.00m
+t399,Malcom,Right Winger,28,Brazil,€25.00m
+t400,Mathias Jensen,Central Midfield,29,Denmark,€25.00m
+t401,David Raum,Left-Back,26,Germany,€25.00m
+t402,Kevin Danso,Centre-Back,26,Austria,€25.00m
+t403,Rodrigo De Paul,Central Midfield,30,Argentina,€25.00m
+t404,Alex Iwobi,Left Winger,28,Nigeria,€25.00m
+t405,Alexander Sørloth,Centre-Forward,29,Norway,€25.00m
+t406,Andrew Robertson,Left-Back,30,Scotland,€25.00m
+t407,Konrad Laimer,Central Midfield,27,Austria,€25.00m
+t408,Álex Remiro,Goalkeeper,29,Spain,€25.00m
+t409,Adrien Rabiot,Central Midfield,29,France,€25.00m
+t410,Jan Oblak,Goalkeeper,32,Slovenia,€25.00m
+t411,Emiliano Martínez,Goalkeeper,32,Argentina,€25.00m
+t412,Thibaut Courtois,Goalkeeper,32,Belgium,€25.00m
+t413,Alisson,Goalkeeper,32,Brazil,€25.00m
+t414,Romelu Lukaku,Centre-Forward,31,Belgium,€25.00m
+t415,Aleksandar Mitrović,Centre-Forward,30,Serbia,€25.00m
+t416,Jack Hinshelwood,Central Midfield,19,England,€24.00m
+t417,Elliot Anderson,Central Midfield,22,England,€24.00m
+t418,Zeno Debast,Centre-Back,21,Belgium,€24.00m
+t419,Marcos Senesi,Centre-Back,27,Argentina,€24.00m
+t420,Callum Hudson-Odoi,Left Winger,24,England,€24.00m
+t421,Weston McKennie,Central Midfield,26,United States,€24.00m
+t422,Tomas Soucek,Defensive Midfield,30,Czech Republic,€24.00m
+t423,Waldemar Anton,Centre-Back,28,Germany,€24.00m
+t424,Antonio Rüdiger,Centre-Back,32,Germany,€24.00m
+t425,Ismael Saibari,Central Midfield,24,Morocco,€23.00m
+t426,Gabri Veiga,Attacking Midfield,22,Spain,€23.00m
+t427,Gabriel Sara,Central Midfield,25,Brazil,€23.00m
+t428,Quilindschy Hartman,Left-Back,23,Netherlands,€23.00m
+t429,Pedro,Centre-Forward,27,Brazil,€23.00m
+t430,Vangelis Pavlidis,Centre-Forward,26,Greece,€23.00m
+t431,John McGinn,Central Midfield,30,Scotland,€23.00m
+t432,Luis Guilherme,Right Winger,19,Brazil,€22.00m
+t433,Facundo Buonanotte,Attacking Midfield,20,Argentina,€22.00m
+t434,Oscar Gloukh,Attacking Midfield,20,Israel,€22.00m
+t435,Lewis Miley,Central Midfield,18,England,€22.00m
+t436,Tyler Dibling,Right Winger,19,England,€22.00m
+t437,Luiz Henrique,Right Winger,24,Brazil,€22.00m
+t438,Mohamed Amoura,Centre-Forward,24,Algeria,€22.00m
+t439,Omari Hutchinson,Attacking Midfield,21,England,€22.00m
+t440,Matías Soulé,Right Winger,21,Argentina,€22.00m
+t441,Julio Enciso,Attacking Midfield,21,Paraguay,€22.00m
+t442,Jarell Quansah,Centre-Back,22,England,€22.00m
+t443,Aaron Hickey,Right-Back,22,Scotland,€22.00m
+t444,Aitor Paredes,Centre-Back,24,Spain,€22.00m
+t445,Carlos Augusto,Left-Back,26,Brazil,€22.00m
+t446,Fábio Vieira,Attacking Midfield,24,Portugal,€22.00m
+t447,Amine Adli,Left Winger,24,Morocco,€22.00m
+t448,Yunus Musah,Central Midfield,22,United States,€22.00m
+t449,Aaron Wan-Bissaka,Right-Back,27,England,€22.00m
+t450,Crysencio Summerville,Left Winger,23,Netherlands,€22.00m
+t451,Kevin Schade,Left Winger,23,Germany,€22.00m
+t452,Rodrigo Riquelme,Left Winger,24,Spain,€22.00m
+t453,Sam Beukema,Centre-Back,26,Netherlands,€22.00m
+t454,Youssef En-Nesyri,Centre-Forward,27,Morocco,€22.00m
+t455,Lewis Ferguson,Attacking Midfield,25,Scotland,€22.00m
+t456,Matt O'Riley,Central Midfield,24,Denmark,€22.00m
+t457,Dodô,Right-Back,26,Brazil,€22.00m
+t458,Igor,Centre-Back,27,Brazil,€22.00m
+t459,Sergiño Dest,Right-Back,24,United States,€22.00m
+t460,Ritsu Doan,Right Winger,26,Japan,€22.00m
+t461,Raoul Bellanova,Right Midfield,24,Italy,€22.00m
+t462,Igor Zubeldia,Centre-Back,27,Spain,€22.00m
+t463,Federico Chiesa,Right Winger,27,Italy,€22.00m
+t464,Caoimhín Kelleher,Goalkeeper,26,Ireland,€22.00m
+t465,Justin Kluivert,Attacking Midfield,25,Netherlands,€22.00m
+t466,Matvey Safonov,Goalkeeper,26,Russia,€22.00m
+t467,Dominic Calvert-Lewin,Centre-Forward,27,England,€22.00m
+t468,Fikayo Tomori,Centre-Back,27,England,€22.00m
+t469,Taiwo Awoniyi,Centre-Forward,27,Nigeria,€22.00m
+t470,Hee-chan Hwang,Centre-Forward,29,"Korea, South",€22.00m
+t471,Sofyan Amrabat,Defensive Midfield,28,Morocco,€22.00m
+t472,Vitaly Janelt,Defensive Midfield,26,Germany,€22.00m
+t473,Viktor Tsygankov,Right Winger,27,Ukraine,€22.00m
+t474,Patrik Schick,Centre-Forward,29,Czech Republic,€22.00m
+t475,Leon Goretzka,Central Midfield,30,Germany,€22.00m
+t476,Raheem Sterling,Right Winger,30,England,€22.00m
+t477,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t478,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t479,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t480,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t481,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t482,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t483,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t484,Alex Scott,Central Midfield,21,England,€20.00m
+t485,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t486,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t487,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t488,Vanderson,Right-Back,23,Brazil,€20.00m
+t489,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t490,Jacob Greaves,Centre-Back,24,England,€20.00m
+t491,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t492,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t493,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t494,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t495,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t496,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t497,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t498,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t499,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t500,Toti,Centre-Back,26,Portugal,€20.00m
+t501,Raheem Sterling,Right Winger,30,England,€22.00m
+t502,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t503,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t504,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t505,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t506,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t507,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t508,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t509,Alex Scott,Central Midfield,21,England,€20.00m
+t510,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t511,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t512,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t513,Vanderson,Right-Back,23,Brazil,€20.00m
+t514,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t515,Jacob Greaves,Centre-Back,24,England,€20.00m
+t516,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t517,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t518,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t519,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t520,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t521,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t522,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t523,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t524,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t525,Toti,Centre-Back,26,Portugal,€20.00m
+t526,Raheem Sterling,Right Winger,30,England,€22.00m
+t527,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t528,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t529,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t530,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t531,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t532,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t533,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t534,Alex Scott,Central Midfield,21,England,€20.00m
+t535,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t536,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t537,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t538,Vanderson,Right-Back,23,Brazil,€20.00m
+t539,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t540,Jacob Greaves,Centre-Back,24,England,€20.00m
+t541,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t542,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t543,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t544,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t545,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t546,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t547,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t548,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t549,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t550,Toti,Centre-Back,26,Portugal,€20.00m
+t551,Raheem Sterling,Right Winger,30,England,€22.00m
+t552,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t553,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t554,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t555,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t556,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t557,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t558,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t559,Alex Scott,Central Midfield,21,England,€20.00m
+t560,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t561,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t562,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t563,Vanderson,Right-Back,23,Brazil,€20.00m
+t564,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t565,Jacob Greaves,Centre-Back,24,England,€20.00m
+t566,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t567,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t568,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t569,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t570,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t571,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t572,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t573,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t574,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t575,Toti,Centre-Back,26,Portugal,€20.00m
+t576,Raheem Sterling,Right Winger,30,England,€22.00m
+t577,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t578,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t579,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t580,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t581,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t582,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t583,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t584,Alex Scott,Central Midfield,21,England,€20.00m
+t585,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t586,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t587,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t588,Vanderson,Right-Back,23,Brazil,€20.00m
+t589,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t590,Jacob Greaves,Centre-Back,24,England,€20.00m
+t591,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t592,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t593,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t594,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t595,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t596,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t597,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t598,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t599,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t600,Toti,Centre-Back,26,Portugal,€20.00m
+t601,Raheem Sterling,Right Winger,30,England,€22.00m
+t602,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t603,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t604,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t605,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t606,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t607,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t608,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t609,Alex Scott,Central Midfield,21,England,€20.00m
+t610,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t611,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t612,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t613,Vanderson,Right-Back,23,Brazil,€20.00m
+t614,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t615,Jacob Greaves,Centre-Back,24,England,€20.00m
+t616,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t617,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t618,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t619,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t620,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t621,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t622,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t623,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t624,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t625,Toti,Centre-Back,26,Portugal,€20.00m
+t626,Raheem Sterling,Right Winger,30,England,€22.00m
+t627,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t628,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t629,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t630,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t631,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t632,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t633,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t634,Alex Scott,Central Midfield,21,England,€20.00m
+t635,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t636,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t637,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t638,Vanderson,Right-Back,23,Brazil,€20.00m
+t639,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t640,Jacob Greaves,Centre-Back,24,England,€20.00m
+t641,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t642,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t643,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t644,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t645,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t646,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t647,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t648,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t649,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t650,Toti,Centre-Back,26,Portugal,€20.00m
+t651,Raheem Sterling,Right Winger,30,England,€22.00m
+t652,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t653,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t654,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t655,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t656,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t657,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t658,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t659,Alex Scott,Central Midfield,21,England,€20.00m
+t660,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t661,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t662,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t663,Vanderson,Right-Back,23,Brazil,€20.00m
+t664,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t665,Jacob Greaves,Centre-Back,24,England,€20.00m
+t666,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t667,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t668,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t669,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t670,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t671,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t672,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t673,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t674,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t675,Toti,Centre-Back,26,Portugal,€20.00m
+t676,Raheem Sterling,Right Winger,30,England,€22.00m
+t677,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t678,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t679,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t680,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t681,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t682,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t683,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t684,Alex Scott,Central Midfield,21,England,€20.00m
+t685,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t686,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t687,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t688,Vanderson,Right-Back,23,Brazil,€20.00m
+t689,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t690,Jacob Greaves,Centre-Back,24,England,€20.00m
+t691,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t692,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t693,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t694,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t695,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t696,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t697,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t698,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t699,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t700,Toti,Centre-Back,26,Portugal,€20.00m
+t701,Raheem Sterling,Right Winger,30,England,€22.00m
+t702,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t703,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t704,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t705,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t706,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t707,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t708,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t709,Alex Scott,Central Midfield,21,England,€20.00m
+t710,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t711,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t712,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t713,Vanderson,Right-Back,23,Brazil,€20.00m
+t714,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t715,Jacob Greaves,Centre-Back,24,England,€20.00m
+t716,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t717,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t718,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t719,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t720,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t721,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t722,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t723,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t724,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t725,Toti,Centre-Back,26,Portugal,€20.00m
+t726,Raheem Sterling,Right Winger,30,England,€22.00m
+t727,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t728,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t729,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t730,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t731,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t732,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t733,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t734,Alex Scott,Central Midfield,21,England,€20.00m
+t735,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t736,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t737,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t738,Vanderson,Right-Back,23,Brazil,€20.00m
+t739,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t740,Jacob Greaves,Centre-Back,24,England,€20.00m
+t741,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t742,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t743,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t744,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t745,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t746,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t747,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t748,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t749,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t750,Toti,Centre-Back,26,Portugal,€20.00m
+t751,Raheem Sterling,Right Winger,30,England,€22.00m
+t752,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t753,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t754,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t755,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t756,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t757,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t758,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t759,Alex Scott,Central Midfield,21,England,€20.00m
+t760,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t761,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t762,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t763,Vanderson,Right-Back,23,Brazil,€20.00m
+t764,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t765,Jacob Greaves,Centre-Back,24,England,€20.00m
+t766,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t767,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t768,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t769,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t770,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t771,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t772,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t773,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t774,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t775,Toti,Centre-Back,26,Portugal,€20.00m
+t776,Raheem Sterling,Right Winger,30,England,€22.00m
+t777,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t778,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t779,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t780,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t781,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t782,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t783,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t784,Alex Scott,Central Midfield,21,England,€20.00m
+t785,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t786,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t787,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t788,Vanderson,Right-Back,23,Brazil,€20.00m
+t789,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t790,Jacob Greaves,Centre-Back,24,England,€20.00m
+t791,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t792,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t793,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t794,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t795,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t796,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t797,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t798,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t799,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t800,Toti,Centre-Back,26,Portugal,€20.00m
+t801,Raheem Sterling,Right Winger,30,England,€22.00m
+t802,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t803,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t804,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t805,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t806,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t807,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t808,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t809,Alex Scott,Central Midfield,21,England,€20.00m
+t810,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t811,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t812,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t813,Vanderson,Right-Back,23,Brazil,€20.00m
+t814,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t815,Jacob Greaves,Centre-Back,24,England,€20.00m
+t816,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t817,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t818,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t819,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t820,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t821,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t822,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t823,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t824,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t825,Toti,Centre-Back,26,Portugal,€20.00m
+t826,Raheem Sterling,Right Winger,30,England,€22.00m
+t827,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t828,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t829,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t830,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t831,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t832,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t833,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t834,Alex Scott,Central Midfield,21,England,€20.00m
+t835,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t836,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t837,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t838,Vanderson,Right-Back,23,Brazil,€20.00m
+t839,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t840,Jacob Greaves,Centre-Back,24,England,€20.00m
+t841,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t842,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t843,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t844,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t845,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t846,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t847,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t848,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t849,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t850,Toti,Centre-Back,26,Portugal,€20.00m
+t851,Raheem Sterling,Right Winger,30,England,€22.00m
+t852,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t853,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t854,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t855,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t856,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t857,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t858,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t859,Alex Scott,Central Midfield,21,England,€20.00m
+t860,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t861,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t862,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t863,Vanderson,Right-Back,23,Brazil,€20.00m
+t864,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t865,Jacob Greaves,Centre-Back,24,England,€20.00m
+t866,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t867,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t868,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t869,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t870,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t871,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t872,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t873,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t874,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t875,Toti,Centre-Back,26,Portugal,€20.00m
+t876,Raheem Sterling,Right Winger,30,England,€22.00m
+t877,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t878,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t879,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t880,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t881,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t882,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t883,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t884,Alex Scott,Central Midfield,21,England,€20.00m
+t885,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t886,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t887,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t888,Vanderson,Right-Back,23,Brazil,€20.00m
+t889,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t890,Jacob Greaves,Centre-Back,24,England,€20.00m
+t891,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t892,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t893,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t894,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t895,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t896,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t897,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t898,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t899,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t900,Toti,Centre-Back,26,Portugal,€20.00m
+t901,Raheem Sterling,Right Winger,30,England,€22.00m
+t902,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t903,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t904,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t905,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t906,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t907,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t908,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t909,Alex Scott,Central Midfield,21,England,€20.00m
+t910,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t911,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t912,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t913,Vanderson,Right-Back,23,Brazil,€20.00m
+t914,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t915,Jacob Greaves,Centre-Back,24,England,€20.00m
+t916,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t917,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t918,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t919,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t920,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t921,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t922,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t923,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t924,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t925,Toti,Centre-Back,26,Portugal,€20.00m
+t926,Raheem Sterling,Right Winger,30,England,€22.00m
+t927,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t928,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t929,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t930,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t931,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t932,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t933,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t934,Alex Scott,Central Midfield,21,England,€20.00m
+t935,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t936,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t937,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t938,Vanderson,Right-Back,23,Brazil,€20.00m
+t939,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t940,Jacob Greaves,Centre-Back,24,England,€20.00m
+t941,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t942,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t943,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t944,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t945,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t946,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t947,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t948,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t949,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t950,Toti,Centre-Back,26,Portugal,€20.00m
+t951,Raheem Sterling,Right Winger,30,England,€22.00m
+t952,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t953,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t954,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t955,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t956,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t957,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t958,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t959,Alex Scott,Central Midfield,21,England,€20.00m
+t960,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t961,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t962,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t963,Vanderson,Right-Back,23,Brazil,€20.00m
+t964,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t965,Jacob Greaves,Centre-Back,24,England,€20.00m
+t966,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t967,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t968,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t969,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t970,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t971,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t972,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t973,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t974,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t975,Toti,Centre-Back,26,Portugal,€20.00m
+t976,Raheem Sterling,Right Winger,30,England,€22.00m
+t977,Antoine Griezmann,Centre-Forward,33,France,€22.00m
+t978,Nico Paz,Attacking Midfield,20,Argentina,€20.00m
+t979,Vitor Roque,Centre-Forward,20,Brazil,€20.00m
+t980,Patrick Dorgu,Left-Back,20,Denmark,€20.00m
+t981,Jeanuël Belocian,Centre-Back,20,France,€20.00m
+t982,Lamine Camara,Central Midfield,21,Senegal,€20.00m
+t983,Habib Diarra,Central Midfield,21,Senegal,€20.00m
+t984,Alex Scott,Central Midfield,21,England,€20.00m
+t985,Javi Guerra,Central Midfield,21,Spain,€20.00m
+t986,Ange-Yoan Bonny,Centre-Forward,21,France,€20.00m
+t987,Dango Ouattara,Left Winger,23,Burkina Faso,€20.00m
+t988,Vanderson,Right-Back,23,Brazil,€20.00m
+t989,Rodrigo Muniz,Centre-Forward,23,Brazil,€20.00m
+t990,Jacob Greaves,Centre-Back,24,England,€20.00m
+t991,Johnny Cardoso,Defensive Midfield,23,United States,€20.00m
+t992,Marcos Leonardo,Centre-Forward,21,Brazil,€20.00m
+t993,Orri Óskarsson,Centre-Forward,20,Iceland,€20.00m
+t994,El Bilal Touré,Centre-Forward,23,Mali,€20.00m
+t995,Keane Lewis-Potter,Left Winger,24,England,€20.00m
+t996,Beñat Prados,Central Midfield,24,Spain,€20.00m
+t997,Conor Bradley,Right-Back,21,Northern Ireland,€20.00m
+t998,Matteo Ruggeri,Left Midfield,22,Italy,€20.00m
+t999,Ander Barrenetxea,Left Winger,23,Spain,€20.00m
+t1000,Toti,Centre-Back,26,Portugal,€20.00m
