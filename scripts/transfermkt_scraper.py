@@ -57,19 +57,32 @@ def scrape_transfermarkt(base_url, min_players=1000):
                 player['ID'] = f't{player_id}'
                 
                 name_element = row.find('td', class_='hauptlink')
-                player['name'] = name_element.text.strip() if name_element else ''
+                if name_element and name_element.find('a'):
+                    player['name'] = name_element.find('a').text.strip()
+                else:
+                    player['name'] = ''
+                inline_table = row.find('table', class_='inline-table')
+                if inline_table:
+                    position_rows = inline_table.find_all('tr')
+                    if len(position_rows) > 1:
+                        position_cell = position_rows[1].find('td')
+                        if position_cell:
+                            player['position'] = position_cell.text.strip()
+                        else:
+                            player['position'] = ''
+                    else:
+                        player['position'] = ''
+                else:
+                    player['position'] = ''
                 
-                position_element = row.find('td', class_='pos-transfer-cell')
-                player['position'] = position_element.text.strip() if position_element else ''
-                
-                age_element = row.find_all('td')[5]
-                player['age'] = age_element.text.strip() if age_element else ''
+                age_cells = row.find_all('td', class_='zentriert')
+                if len(age_cells) >= 2:
+                    player['age'] = age_cells[1].text.strip()
+                else:
+                    player['age'] = ''
                 
                 nationality_element = row.find('img', class_='flaggenrahmen')
-                player['nationality'] = nationality_element['title'] if nationality_element else ''
-                
-                club_element = row.find('img', class_='tiny_wappen')
-                player['current_club'] = club_element['alt'] if club_element else ''
+                player['nationality'] = nationality_element['title'] if nationality_element and 'title' in nationality_element.attrs else ''
                 
                 value_element = row.find('td', class_='rechts hauptlink')
                 player['market_value'] = value_element.text.strip() if value_element else ''
@@ -98,7 +111,7 @@ def save_to_csv(players_data, filename):
         print("No data to save")
         return
         
-    headers = ['ID', 'name', 'position', 'age', 'nationality', 'current_club', 'market_value']
+    headers = ['ID', 'name', 'position', 'age', 'nationality', 'market_value']
     
     with open(filename, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=headers)
